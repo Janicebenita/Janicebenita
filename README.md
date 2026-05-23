@@ -344,11 +344,18 @@ Published in:
 
 ---
 
-# 📈 Most Used Languages
+---
+
+## 📦 Portfolio Highlights
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janicebenita&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://img.shields.io/badge/Public%20Repositories-15+-blueviolet?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/AI%2FML%20Projects-8+-00C853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-Advanced-2962FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Research%20Publication-1-FF6D00?style=for-the-badge"/>
 </p>
+
+---
 
 ---
 
