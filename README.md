@@ -1,334 +1,370 @@
-<!-- ====================================================== -->
-<!-- Animated Typing Banner -->
-<!-- ====================================================== -->
-
-<h1 align="center">Hi 👋, I'm Janice Benita F</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=950&lines=Machine+Learning+%7C+Computer+Vision+Engineer;Building+Real-World+AI+Solutions;Deep+Learning+%7C+Data+Analytics+%7C+Full-Stack;Explainable+AI+Research+Enthusiast;B.Tech+IT+Student+%7C+2027+Batch" />
+  <img src="banner.png" width="100%" alt="Janice Benita Banner"/>
 </p>
 
----
+<h1 align="center">
+  Hi 👋 I'm Janice Benita F
+</h1>
 
-<!-- ====================================================== -->
-<!-- Visitor Counter -->
-<!-- ====================================================== -->
+<h3 align="center">
+AI Engineer • Computer Vision • Explainable AI • Intelligent ML Systems
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Janicebenita&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&lines=AI+%7C+Computer+Vision+Engineer;YOLOv8+%7C+Deep+Learning+%7C+Explainable+AI;Building+Real-World+AI+Systems;ML+Researcher+%7C+Full-Stack+Developer;Deployment-Oriented+Machine+Learning+Engineer" />
 </p>
 
----
+<p align="center">
 
-# 💫 About Me
+<a href="https://github.com/Janicebenita">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-🎓 B.Tech Information Technology Student (2023–2027)  
-🤖 Machine Learning | Computer Vision | Data Analytics  
-💻 Building real-world AI solutions with practical deployment focus  
-📍 Chennai, India  
-
----
-
-## 🚀 About Me
-
-I’m an Information Technology undergraduate passionate about solving real-world problems using Artificial Intelligence, Machine Learning, and Full-Stack Development.
-
-My work focuses on:
-
-- Deep Learning & Computer Vision
-- Explainable AI (XAI)
-- Data Analytics & Predictive Modeling
-- Deployment-Oriented ML Systems
-- Full-Stack Engineering
-
-I enjoy building scalable AI systems that combine technical accuracy with practical business impact.
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/janice13" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+<a href="https://www.linkedin.com/in/janice13">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:janicebenita123@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Janicebenita">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
+<a href="https://portfolio.com">
+<img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge"/>
 </a>
+
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Janicebenita&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
 </p>
 
 ---
 
-# 🛠️ Tech Stack
-
-## 👨‍💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,mysql" />
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
 </p>
 
 ---
 
-## 🤖 Machine Learning & Data Science
+# 🚀 About Me
 
-<p>
+🎓 Information Technology Undergraduate specializing in:
+
+- Artificial Intelligence
+- Computer Vision
+- Explainable AI
+- Deep Learning Systems
+- Full-Stack Intelligent Applications
+
+🏗️ Industry Experience at **Larsen & Toubro (L&T)** building AI-assisted infrastructure inspection systems.
+
+🔬 Published Research Author in Explainable Deep Learning for automated crack detection using ResNet-18 + Grad-CAM.
+
+⚡ Passionate about designing:
+
+✔️ Real-time AI systems  
+✔️ Intelligent detection pipelines  
+✔️ Explainable ML architectures  
+✔️ Deployment-ready applications  
+✔️ Scalable AI solutions  
+✔️ Enterprise dashboard platforms  
+
+---
+
+# 🧠 Technical Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,flask,mysql,git,github,html,css"/>
+
+<br><br>
+
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GradCAM-7B1FA2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DeepLearning-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ComputerVision-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ExplainableAI-6A1B9A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Flask_API-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ML_Deployment-0F9D58?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Analytics-1565C0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Web_Development-E65100?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</div>
 
-<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
+---
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+# 🔥 Featured AI & Software Projects
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+---
+
+# 🏗️ AI-Powered Concrete Crack Detection & Localization System
+
+### 🚧 Explainable Infrastructure AI System
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Research-Published-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Accuracy-95.7%25-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/XAI-GradCAM-purple?style=for-the-badge"/>
 </p>
 
----
+### 🧠 Hybrid Deep Learning Pipeline
 
-## 🌐 Web & Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=flask,html,css,javascript,mysql" />
-</p>
-
----
-
-## ⚙️ Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=PowerBI&logoColor=black"/>
-</p>
+- YOLOv8-based Crack Localization
+- ResNet-18 Classification
+- Grad-CAM Explainability
+- OpenCV Computer Vision
+- Flask Deployment System
 
 ---
 
-# 🌟 Featured Projects
+## ✨ System Highlights
 
-# 🧠 AI-Powered Concrete Crack Detection System with Explainable AI
-
-🔗 [View Project](https://github.com/Janicebenita/AI-Powered-Concrete-Crack-Detection-System-with-Explainable-AI-Grad-CAM-)
-
----
-
-## 📌 Project Highlights
-
-- Developed a ResNet-18 based deep learning system for automated concrete crack detection
-- Achieved **95.7% classification accuracy**
-- Integrated **Grad-CAM Explainable AI** for model interpretability
-- Designed deployment-oriented inspection workflow
-- Built scalable infrastructure inspection pipeline
+✔️ Automated Crack Detection  
+✔️ Crack Localization Pipeline  
+✔️ Explainable AI Heatmaps  
+✔️ Infrastructure Inspection Automation  
+✔️ Failure Pattern Identification  
+✔️ Real-world Surface Robustness  
+✔️ Deployment-oriented ML Workflow  
+✔️ Intelligent Visualization Pipeline  
 
 ---
 
-## 🏗️ Architecture Diagram
+## 📊 Real Industry Impact
+
+🚀 Reduced inspection timeline:
+### 25–30 Days → 3–5 Days
+
+🚀 Reduced manpower dependency:
+### 5 Inspectors → 1–2 Technicians
+
+🚀 Improved infrastructure inspection efficiency using AI-assisted workflows.
+
+---
+
+## 🛠️ AI Workflow
 
 ```text
-Image Upload
+Input Image
       ↓
 Image Preprocessing
       ↓
-ResNet-18 Classification
+YOLOv8 + ResNet-18 Hybrid Pipeline
       ↓
-Grad-CAM Explainability
+Detection + Classification
       ↓
-Crack Localization
+Grad-CAM Heatmaps
       ↓
-Final Prediction Output
+Final Crack Visualization
 ```
+
+🔗 Repository:
+[AI-Powered Concrete Crack Detection System](https://github.com/Janicebenita/AI-Powered-Concrete-Crack-Detection-System-with-Explainable-AI-Grad-CAM-)
 
 ---
 
-## 🧠 Tech Used
+# 🌍 Full-Stack NGO Management & MIS Platform
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+### 📊 Enterprise NGO Operations Dashboard
 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+A scalable management platform designed for NGO workflow automation, project monitoring, and operational visibility.
 
-<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
+---
 
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-</p>
+## ✨ Key Features
+
+✔️ NGO Project Lifecycle Management  
+✔️ Resource Allocation Tracking  
+✔️ MIS Dashboard Analytics  
+✔️ User Authentication System  
+✔️ Operational Monitoring  
+✔️ Project Status Visualization  
+✔️ Database-driven Reporting  
+✔️ Dashboard-based Decision Support  
+
+---
+
+## 🛠️ Technology Stack
+
+- Flask
+- MySQL
+- JavaScript
+- HTML/CSS
+- Dashboard Analytics
+
+---
+
+## 🚀 System Focus
+
+Designed to simulate:
+
+- Real enterprise workflows
+- Operational management systems
+- Data-driven monitoring platforms
+- Organizational resource tracking
+
+🔗 Repository:
+[NGO Management Platform](https://github.com/Janicebenita/Full-Stack-NGO-Management-Platform-with-Dashboard-and-Resource-Allocation)
+
+---
+
+# 🔥 Audio-Visual Fire & Smoke Detection System
+
+### 🚨 Real-Time Multimodal AI Detection
+
+Combines:
+- Computer Vision
+- CNN Audio Classification
+- YOLOv8 Detection
+- Audio-Visual Fusion
+- Emergency Detection Intelligence
+
+---
+
+## ✨ Features
+
+✔️ Real-time Fire Detection  
+✔️ Smoke Detection  
+✔️ Audio-Visual Fusion  
+✔️ Reduced False Positives  
+✔️ Live Monitoring Dashboard  
+✔️ Intelligent Emergency Alerts  
 
 ---
 
 # 📈 Real-Time Stock Trading Signal System
 
-🔗 [View Project](https://github.com/Janicebenita/Data-Driven-Real-Time-Stock-Trading-Signal-System-with-RSI-MA-Strategy-and-Telegram-Alerts)
+### 📊 Financial Signal Intelligence Platform
+
+Features:
+- RSI & Moving Average Strategies
+- Telegram Alert Automation
+- Real-Time Signal Monitoring
+- Time-Series Analytics
 
 ---
 
-## 📌 Project Highlights
+# 🏢 Professional Experience
 
-- Built a rule-based stock trading signal system
-- Combined RSI and Moving Average strategies
-- Integrated Telegram Bot API for real-time notifications
-- Implemented financial data analysis workflows
+# 🏗️ Larsen & Toubro (L&T)
 
----
+### Data Analytics & Machine Learning Intern
 
-## ⚙️ Workflow Architecture
+🏗️ Worked on AI-assisted infrastructure inspection systems and explainable computer vision workflows.
 
-```text
-Stock Market Data
-        ↓
-Technical Indicator Calculation
-(RSI + Moving Average)
-        ↓
-Signal Generation
-(Buy/Sell)
-        ↓
-Telegram Bot Integration
-        ↓
-Real-Time Alert Notifications
-```
+### Contributions
+
+✔️ Processed 10,000+ inspection records  
+✔️ Built crack detection ML pipelines  
+✔️ Developed explainable AI workflows using Grad-CAM  
+✔️ Improved inspection automation efficiency  
+✔️ Designed deployment-ready AI systems  
 
 ---
 
-## 🧠 Tech Used
+# 🌾 YuvaIntern
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+### Machine Learning & Data Analytics Intern
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+📊 Worked on predictive analytics, machine learning workflows, and data-driven solutions.
 
-<img src="https://img.shields.io/badge/Telegram_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-</p>
+### Contributions
 
----
-
-# 🌐 Full-Stack NGO Management Platform
-
-🔗 [View Project](https://github.com/Janicebenita/Full-Stack-NGO-Management-Platform-with-Dashboard-and-Resource-Allocation)
+✔️ Data preprocessing & feature engineering  
+✔️ Exploratory Data Analysis (EDA)  
+✔️ Machine learning model development  
+✔️ Predictive analytics workflows  
+✔️ Visualization & reporting techniques  
 
 ---
 
-## 📌 Project Highlights
+# 💻 CodeBind Technologies
 
-- Developed a full-stack NGO management system
-- Built dashboards for operational tracking
-- Implemented project and resource management workflows
-- Designed frontend-backend integration
+### Web Design & Development Intern
 
----
+🌐 Worked on responsive UI/UX design and modern web application development.
 
-## 🏗️ Architecture Diagram
+### Contributions
 
-```text
-Frontend Dashboard
-       ↓
-Flask Backend APIs
-       ↓
-MySQL Database
-       ↓
-Project & Resource Management
-```
+✔️ Responsive website development  
+✔️ Frontend UI/UX enhancement  
+✔️ HTML, CSS & JavaScript development  
+✔️ Interactive user interface implementation  
+✔️ Web deployment optimization  
 
 ---
 
-## 🧠 Tech Used
+# 📚 Research Publication
 
-<p>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
----
-
-# 📚 Research & Publications
-
-## 📄 Explainable Deep Learning Framework for Automated Concrete Crack Detection Using ResNet-18
+## 📖 Explainable Deep Learning Framework for Automated Concrete Crack Detection Using ResNet-18
 
 Published in:
-
-**International Journal of Engineering Research & Technology (IJERT)**  
-Volume 15, Issue 05, May 2026
+### International Journal of Engineering Research & Technology (IJERT)
 
 ---
 
 # 🏆 Achievements
 
-- ✅ Solved **600+ DSA problems**
-- ✅ Recognized as **Code Tutor** with 300+ peer contributions
-- ✅ Runner-Up — CodeVerse Coding Competition
-- ✅ Active contributor to AI/ML and Full-Stack GitHub repositories
+🏅 600+ DSA Problems Solved  
 
----
+🏅 Published AI Research Author  
 
-# 💼 Experience
+🏅 Code Tutor with 300+ Contributions  
 
-## 🏢 Data Analytics & Machine Learning Intern — Larsen & Toubro (L&T)
+🏅 Runner-Up — CodeVerse Coding Competition  
 
-- Built AI-based crack detection workflows using Deep Learning and Computer Vision
-- Worked on infrastructure inspection automation
-- Implemented Explainable AI using Grad-CAM
-
----
-
-## 🌾 ML Data Analyst Intern — YuvaIntern
-
-- Worked on agricultural analytics and predictive modeling
-- Performed EDA, preprocessing, and ML workflows
+🏅 Active AI/ML Open Source Contributor  
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Janicebenita&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janicebenita&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Janicebenita&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Janicebenita&theme=tokyonight&hide_border=true" height="180"/>
+
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 📈 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Janicebenita&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janicebenita&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 🌱 Currently Exploring
+
+🧠 Advanced Deep Learning Architectures  
+
+⚡ MLOps & AI Deployment Pipelines  
+
+☁️ AI + Cloud Integration  
+
+🔍 Explainable Computer Vision  
+
+📊 Scalable ML Systems  
+
+---
+
+# 💡 Engineering Philosophy
+
+<div align="center">
+
+### "Building AI systems that are intelligent, explainable, scalable, and impactful."
+
+</div>
+
+---
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Janicebenita&theme=tokyo-night"/>
-</p>
 
----
+✨ Thanks for visiting my profile ✨
 
-# 🌐 Connect With Me
-
-📧 Email: janicebenita123@gmail.com  
-💼 LinkedIn: https://linkedin.com/in/janice13  
-🌐 Portfolio: https://janicebenita.dev  
-🐙 GitHub: https://github.com/Janicebenita
-
----
-
-# 💭 Quote
-
-> “Building practical AI systems with real-world impact.”
-
----
-
-# ⭐ Thanks for Visiting!
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
 </p>
