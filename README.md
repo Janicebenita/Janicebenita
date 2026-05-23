@@ -251,7 +251,12 @@ Features:
 - Telegram Alert Automation
 - Real-Time Signal Monitoring
 - Time-Series Analytics
-
+  🔗 Repository:
+<p align="center">
+  <a href="https://github.com/Janicebenita/Data-Driven-Real-Time-Stock-Trading-Signal-System-with-RSI-MA-Strategy-and-Telegram-Alerts">
+    <img src="https://img.shields.io/badge/View%20Stock%20Trading%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 ---
 
 # 🏢 Professional Experience
