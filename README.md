@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" width="100%" alt="Janice Benita Banner"/>
+  <img src="Banner.png" width="100%" alt="Janice Benita Banner"/>
 </p>
 
 <h1 align="center">
