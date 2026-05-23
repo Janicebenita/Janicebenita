@@ -210,7 +210,11 @@ Designed to simulate:
 - Organizational resource tracking
 
 🔗 Repository:
-[NGO Management Platform](https://github.com/Janicebenita/Full-Stack-NGO-Management-Platform-with-Dashboard-and-Resource-Allocation)
+<p align="center">
+  <a href="https://github.com/Janicebenita/Full-Stack-NGO-Management-Platform-with-Dashboard-and-Resource-Allocation">
+    <img src="https://img.shields.io/badge/View%20NGO%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
