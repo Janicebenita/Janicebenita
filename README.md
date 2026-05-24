@@ -48,7 +48,7 @@ AI Engineer • Computer Vision • Explainable AI • Intelligent ML Systems
 
 # 🚀 About Me
 
-🎓 Information Technology Undergraduate specializing in:
+🎓 Information Technology Undergraduate student specializing in:
 
 - Artificial Intelligence
 - Computer Vision
