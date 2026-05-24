@@ -218,7 +218,7 @@ Designed to simulate:
 
 ---
 
-# 🔥 Audio-Visual Fire & Smoke Detection System (currently working - Mini project)
+# 🔥 Audio-Visual Fire & Smoke Detection System (currently working)
 
 ### 🚨 Real-Time Multimodal AI Detection
 
