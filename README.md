@@ -218,7 +218,7 @@ International Journal of Engineering Research & Technology (IJERT)
 </a>
 
 <a href="YOUR_PAPER_LINK">
-<img src="https://img.shields.io/badge/Research-Publication-blue?style=for-the-badge"/>
+<img src="[https://www.ijert.org/explainable-deep-learning-framework-for-automated-concrete-crack-detection-using-resnet-18-ijertv15is050984]/badge/Research-Publication-blue?style=for-the-badge"/>
 </a>
 
 <a href="YOUR_DEMO_LINK">
