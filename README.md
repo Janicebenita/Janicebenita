@@ -192,10 +192,21 @@ Published in:
 
 International Journal of Engineering Research & Technology (IJERT)
 
-🔗 Repository:
+<p align="center">
 
-https://github.com/Janicebenita/AI-Powered-Concrete-Crack-Detection-System-with-Explainable-AI-Grad-CAM-
+<a href="https://github.com/Janicebenita/AI-Powered-Concrete-Crack-Detection-System-with-Explainable-AI-Grad-CAM-">
+<img src="https://img.shields.io/badge/Repository-GitHub-black?style=for-the-badge&logo=github"/>
+</a>
 
+<a href="YOUR_PAPER_LINK">
+<img src="https://img.shields.io/badge/Research-Publication-blue?style=for-the-badge"/>
+</a>
+
+<a href="YOUR_DEMO_LINK">
+<img src="https://img.shields.io/badge/Demo-View-green?style=for-the-badge"/>
+</a>
+
+</p>
 ---
 
 # 🌍 Full-Stack NGO Management & MIS Platform
