@@ -156,6 +156,25 @@ An Explainable AI framework developed to assist clinicians in Root Canal Treatme
 
 Building trustworthy, transparent, and interpretable AI systems for healthcare.
 
+<p align="center">
+
+<a href="https://github.com/Janicebenita/EndoXAI">
+<img src="https://img.shields.io/badge/REPOSITORY-GITHUB-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/HEALTHCARE-AI-blue?style=for-the-badge"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/XAI-EXPLAINABLE%20AI-purple?style=for-the-badge"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/CLINICAL-DECISION%20SUPPORT-green?style=for-the-badge"/>
+</a>
+
+</p>
 ---
 
 # 🏗️ AI-Powered Concrete Crack Detection System
