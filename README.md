@@ -128,9 +128,11 @@ before they impact project performance.
 
 Python • Streamlit • Pandas • Plotly • Six Sigma Analytics
 
-🔗 Repository:
-
-https://github.com/Janicebenita/Concrete-Strength-Analytics-Six-Sigma-Intelligence-Platform
+<p align="center">
+<a href="https://github.com/Janicebenita/Concrete-Strength-Analytics-Six-Sigma-Intelligence-Platform">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 ---
 
