@@ -3,15 +3,15 @@
 </p>
 
 <h1 align="center">
-  Hi 👋 I'm Janice Benita F
+Hi 👋 I'm Janice Benita F
 </h1>
 
 <h3 align="center">
-AI Engineer • Computer Vision • Explainable AI • Intelligent ML Systems
+AI Engineer • Computer Vision • Explainable AI • Industrial Analytics
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&lines=AI+%7C+Computer+Vision+Engineer;YOLOv8+%7C+Deep+Learning+%7C+Explainable+AI;Building+Real-World+AI+Systems;ML+Researcher+%7C+Full-Stack+Developer;Deployment-Oriented+Machine+Learning+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&lines=Artificial+Intelligence+Engineer;Computer+Vision+%7C+Explainable+AI;Healthcare+AI+%7C+Infrastructure+AI;Industrial+Analytics+Developer;Building+Real-World+Intelligent+Systems" />
 </p>
 
 <p align="center">
@@ -28,307 +28,308 @@ AI Engineer • Computer Vision • Explainable AI • Intelligent ML Systems
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://portfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge"/>
-</a>
-
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Janicebenita&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
+<img src="https://komarev.com/ghpvc/?username=Janicebenita&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
 </p>
 
 ---
 
 # 🚀 About Me
 
-🎓 Information Technology Undergraduate student specializing in:
+I am a B.Tech Information Technology student passionate about developing intelligent systems that solve real-world challenges across healthcare, infrastructure, and industrial analytics.
 
-- Artificial Intelligence
-- Computer Vision
-- Explainable AI
-- Deep Learning Systems
-- Full-Stack Intelligent Applications
+My work focuses on:
 
-🏗️ Industry Experience at **Larsen & Toubro (L&T)** building AI-assisted infrastructure inspection systems.
+- 🤖 Artificial Intelligence
+- 👁️ Computer Vision
+- 🧠 Explainable AI (XAI)
+- 📊 Data Analytics
+- 🏗️ Construction Quality Intelligence
+- 🌐 Full-Stack Intelligent Applications
 
-🔬 Published Research Author in Explainable Deep Learning for automated crack detection using ResNet-18 + Grad-CAM.
+### Areas of Special Interest
 
-⚡ Passionate about designing:
+🏥 Healthcare AI
 
-✔️ Real-time AI systems  
-✔️ Intelligent detection pipelines  
-✔️ Explainable ML architectures  
-✔️ Deployment-ready applications  
-✔️ Scalable AI solutions  
-✔️ Enterprise dashboard platforms  
+🏗️ Infrastructure Inspection & Civil Engineering AI
+
+📊 Industrial Analytics & Six Sigma Intelligence
+
+🧠 Explainable Machine Learning Systems
+
+🚀 AI Product Development & Deployment
 
 ---
 
 # 🧠 Technical Stack
 
-<div align="center">
+## Programming & Development
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,flask,mysql,git,github,html,css"/>
+Python • Java • JavaScript • HTML • CSS • SQL
 
-<br><br>
+## Artificial Intelligence & Machine Learning
 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GradCAM-7B1FA2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DeepLearning-0A66C2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ComputerVision-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ExplainableAI-6A1B9A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Flask_API-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ML_Deployment-0F9D58?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data_Analytics-1565C0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Web_Development-E65100?style=for-the-badge"/>
+PyTorch • OpenCV • YOLOv8 • ResNet-18 • Deep Learning • Explainable AI • Grad-CAM
 
-</div>
+## Data Analytics
+
+Pandas • NumPy • Plotly • Streamlit • Statistical Analytics • Six Sigma
+
+## Deployment & Tools
+
+Flask • Git • GitHub • REST APIs
 
 ---
 
-# 🔥 Featured AI & Software Projects
+# 🔥 Featured Projects
 
 ---
 
-# 🏗️ AI-Powered Concrete Crack Detection & Localization System
+# 📊 Concrete Strength Analytics & Six Sigma Intelligence Platform
 
-### 🚧 Explainable Infrastructure AI System
+### AI-Powered Construction Quality Intelligence Platform
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Research-Published-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Accuracy-95.7%25-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/XAI-GradCAM-purple?style=for-the-badge"/>
-</p>
+An enterprise-grade analytics system developed for concrete quality evaluation, statistical process control, Six Sigma capability analysis, and risk intelligence.
 
-### 🧠 Hybrid Deep Learning Pipeline
+### Key Capabilities
 
-- YOLOv8-based Crack Localization
-- ResNet-18 Classification
-- Grad-CAM Explainability
-- OpenCV Computer Vision
-- Flask Deployment System
+✅ ACI Acceptance Verification
 
----
+✅ Sigma Level Evaluation
 
-## ✨ System Highlights
+✅ Cp & Cpk Analysis
 
-✔️ Automated Crack Detection  
-✔️ Crack Localization Pipeline  
-✔️ Explainable AI Heatmaps  
-✔️ Infrastructure Inspection Automation  
-✔️ Failure Pattern Identification  
-✔️ Real-world Surface Robustness  
-✔️ Deployment-oriented ML Workflow  
-✔️ Intelligent Visualization Pipeline  
+✅ Coefficient of Variation Monitoring
 
----
+✅ Quality Risk Detection
 
-## 📊 Real Industry Impact
+✅ Supplier Performance Benchmarking
 
-🚀 Reduced inspection timeline:
-### 25–30 Days → 3–5 Days
+✅ Mix Design Analytics
 
-🚀 Reduced manpower dependency:
-### 5 Inspectors → 1–2 Technicians
+✅ Executive Dashboard Reporting
 
-🚀 Improved infrastructure inspection efficiency using AI-assisted workflows.
+### Why It Matters
 
----
+Most projects only verify whether concrete strength meets the specified grade.
 
-## 🛠️ AI Workflow
+This platform goes beyond compliance by identifying:
 
-```text
-Input Image
-      ↓
-Image Preprocessing
-      ↓
-YOLOv8 + ResNet-18 Hybrid Pipeline
-      ↓
-Detection + Classification
-      ↓
-Grad-CAM Heatmaps
-      ↓
-Final Crack Visualization
-```
+- Hidden quality variation
+- Process instability
+- Supplier inconsistencies
+- Future quality risks
+
+before they impact project performance.
+
+### Technologies
+
+Python • Streamlit • Pandas • Plotly • Six Sigma Analytics
 
 🔗 Repository:
-<p align="center">
-  <a href="https://github.com/Janicebenita/AI-Powered-Concrete-Crack-Detection-System-with-Explainable-AI-Grad-CAM-">
-    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+
+https://github.com/Janicebenita/Concrete-Strength-Analytics-Six-Sigma-Intelligence-Platform
+
+---
+
+# 🦷 EndoXAI – Explainable AI for Root Canal Treatment Prediction
+
+### Healthcare AI Clinical Decision Support System
+
+An Explainable AI framework developed to assist clinicians in Root Canal Treatment prediction using intelligent diagnostic support.
+
+### Features
+
+✅ Dental X-Ray Analysis
+
+✅ Clinical Decision Support
+
+✅ Explainable AI Visualizations
+
+✅ Treatment Prediction Intelligence
+
+### Focus
+
+Building trustworthy, transparent, and interpretable AI systems for healthcare.
+
+---
+
+# 🏗️ AI-Powered Concrete Crack Detection System
+
+### Published Infrastructure AI Research
+
+An Explainable Deep Learning system developed for automated concrete crack detection and localization.
+
+### Technologies
+
+YOLOv8
+
+ResNet-18
+
+Grad-CAM
+
+OpenCV
+
+Flask
+
+### Highlights
+
+✅ Crack Detection
+
+✅ Crack Classification
+
+✅ Explainable AI Heatmaps
+
+✅ Infrastructure Inspection Automation
+
+### Publication
+
+Published in:
+
+International Journal of Engineering Research & Technology (IJERT)
+
+🔗 Repository:
+
+https://github.com/Janicebenita/AI-Powered-Concrete-Crack-Detection-System-with-Explainable-AI-Grad-CAM-
 
 ---
 
 # 🌍 Full-Stack NGO Management & MIS Platform
 
-### 📊 Enterprise NGO Operations Dashboard
+### Enterprise Operations Dashboard
 
-A scalable management platform designed for NGO workflow automation, project monitoring, and operational visibility.
+A complete web-based management system developed for NGO workflow automation and resource tracking.
 
----
+### Features
 
-## ✨ Key Features
+✅ Project Lifecycle Management
 
-✔️ NGO Project Lifecycle Management  
-✔️ Resource Allocation Tracking  
-✔️ MIS Dashboard Analytics  
-✔️ User Authentication System  
-✔️ Operational Monitoring  
-✔️ Project Status Visualization  
-✔️ Database-driven Reporting  
-✔️ Dashboard-based Decision Support  
+✅ Resource Allocation
 
----
+✅ MIS Reporting
 
-## 🛠️ Technology Stack
+✅ Dashboard Analytics
 
-- Flask
-- MySQL
-- JavaScript
-- HTML/CSS
-- Dashboard Analytics
+✅ User Authentication
+
+### Technologies
+
+Flask • MySQL • JavaScript • HTML • CSS
 
 ---
 
-## 🚀 System Focus
+# 🔥 Audio-Visual Fire & Smoke Detection System
 
-Designed to simulate:
+### Real-Time Multimodal AI (Ongoing Project)
 
-- Real enterprise workflows
-- Operational management systems
-- Data-driven monitoring platforms
-- Organizational resource tracking
+Combining:
 
-🔗 Repository:
-<p align="center">
-  <a href="https://github.com/Janicebenita/Full-Stack-NGO-Management-Platform-with-Dashboard-and-Resource-Allocation">
-    <img src="https://img.shields.io/badge/View%20NGO%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-# 🔥 Audio-Visual Fire & Smoke Detection System (currently working)
-
-### 🚨 Real-Time Multimodal AI Detection
-
-Combines:
 - Computer Vision
 - CNN Audio Classification
 - YOLOv8 Detection
 - Audio-Visual Fusion
-- Emergency Detection Intelligence
+- Emergency Intelligence
+
+### Features
+
+✅ Fire Detection
+
+✅ Smoke Detection
+
+✅ Audio Intelligence
+
+✅ Reduced False Positives
+
+✅ Real-Time Monitoring
 
 ---
 
-## ✨ Features
+# 📈 Real-Time Stock Trading Signal Intelligence Platform
 
-✔️ Real-time Fire Detection  
-✔️ Smoke Detection  
-✔️ Audio-Visual Fusion  
-✔️ Reduced False Positives  
-✔️ Live Monitoring Dashboard  
-✔️ Intelligent Emergency Alerts  
+### Financial Analytics System
+
+Developed for automated market signal generation using technical indicators and analytics.
+
+### Features
+
+✅ RSI Strategy
+
+✅ Moving Average Signals
+
+✅ Telegram Alerts
+
+✅ Time-Series Analytics
+
+🔗 Repository:
+
+https://github.com/Janicebenita/Data-Driven-Real-Time-Stock-Trading-Signal-System-with-RSI-MA-Strategy-and-Telegram-Alerts
 
 ---
 
-# 📈 Real-Time Stock Trading Signal System
+# 💼 Professional Experience
 
-### 📊 Financial Signal Intelligence Platform
-
-Features:
-- RSI & Moving Average Strategies
-- Telegram Alert Automation
-- Real-Time Signal Monitoring
-- Time-Series Analytics
-  🔗 Repository:
-<p align="center">
-  <a href="https://github.com/Janicebenita/Data-Driven-Real-Time-Stock-Trading-Signal-System-with-RSI-MA-Strategy-and-Telegram-Alerts">
-    <img src="https://img.shields.io/badge/View%20Stock%20Trading%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
----
-
-# 🏢 Professional Experience
-
-# 🏗️ Larsen & Toubro (L&T)
+## 🏗️ Larsen & Toubro (L&T)
 
 ### Data Analytics & Machine Learning Intern
 
-🏗️ Worked on AI-assisted infrastructure inspection systems and explainable computer vision workflows.
+Worked on:
 
-### Contributions
-
-✔️ Processed 10,000+ inspection records  
-✔️ Built crack detection ML pipelines  
-✔️ Developed explainable AI workflows using Grad-CAM  
-✔️ Improved inspection automation efficiency  
-✔️ Designed deployment-ready AI systems  
+- Construction Quality Analytics
+- Infrastructure Inspection Intelligence
+- Explainable AI Systems
+- Data-Driven Engineering Solutions
 
 ---
 
-# 🌾 YuvaIntern
+## 🌾 YuvaIntern
 
-### Machine Learning & Data Analytics Intern
+### Data Analytics Intern
 
-📊 Worked on predictive analytics, machine learning workflows, and data-driven solutions.
+Worked on:
 
-### Contributions
-
-✔️ Data preprocessing & feature engineering  
-✔️ Exploratory Data Analysis (EDA)  
-✔️ Machine learning model development  
-✔️ Predictive analytics workflows  
-✔️ Visualization & reporting techniques  
+- Predictive Analytics
+- Data Preprocessing
+- Exploratory Data Analysis
+- Machine Learning Workflows
 
 ---
 
-# 💻 CodeBind Technologies
+## 💻 CodeBind Technologies
 
-### Web Design & Development Intern
+### Web Development Intern
 
-🌐 Worked on responsive UI/UX design and modern web application development.
+Worked on:
 
-### Contributions
-
-✔️ Responsive website development  
-✔️ Frontend UI/UX enhancement  
-✔️ HTML, CSS & JavaScript development  
-✔️ Interactive user interface implementation  
-✔️ Web deployment optimization  
+- Responsive Web Applications
+- Frontend Development
+- API Integration
+- UI/UX Enhancement
 
 ---
 
 # 📚 Research Publication
 
-## 📖 Explainable Deep Learning Framework for Automated Concrete Crack Detection Using ResNet-18
+## Explainable Deep Learning Framework for Automated Concrete Crack Detection Using ResNet-18
 
 Published in:
+
 ### International Journal of Engineering Research & Technology (IJERT)
 
 ---
 
 # 🏆 Achievements
 
-🏅 600+ DSA Problems Solved  
+🏅 Published Research Author
 
-🏅 Published AI Research Author  
+🏅 600+ DSA Problems Solved
 
-🏅 Code Tutor with 300+ Contributions  
+🏅 AI & Data Analytics Project Developer
 
-🏅 Runner-Up — CodeVerse Coding Competition  
+🏅 Open Source Contributor
 
-🏅 Active AI/ML Open Source Contributor  
+🏅 Runner-Up – CodeVerse Coding Competition
 
 ---
 
@@ -344,40 +345,55 @@ Published in:
 
 ---
 
----
+# 📦 Portfolio Highlights
 
-## 📦 Portfolio Highlights
+🏥 Healthcare AI
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Public%20Repositories-15+-blueviolet?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/AI%2FML%20Projects-8+-00C853?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-Advanced-2962FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Research%20Publication-1-FF6D00?style=for-the-badge"/>
-</p>
+🏗️ Infrastructure AI
 
----
+📊 Industrial Analytics
+
+🤖 Explainable AI
+
+🌐 Full-Stack Development
+
+📈 Financial Analytics
 
 ---
 
 # 🌱 Currently Exploring
 
-🧠 Advanced Deep Learning Architectures  
+🧠 Advanced Deep Learning
 
-⚡ MLOps & AI Deployment Pipelines  
+⚡ MLOps & AI Deployment
 
-☁️ AI + Cloud Integration  
+☁️ AI + Cloud Integration
 
-🔍 Explainable Computer Vision  
+🔍 Explainable Computer Vision
 
-📊 Scalable ML Systems  
+📊 Industrial AI Systems
 
 ---
 
 # 💡 Engineering Philosophy
 
-<div align="center">
+> Building AI systems that are intelligent, explainable, scalable, and impactful.
 
-### "Building AI systems that are intelligent, explainable, scalable, and impactful."
+---
+
+### Connect
+
+GitHub:
+https://github.com/Janicebenita
+
+LinkedIn:
+https://linkedin.com/in/janice13
+
+---
+
+<p align="center">
+✨ Thanks for visiting my profile ✨
+</p>
 
 </div>
 
