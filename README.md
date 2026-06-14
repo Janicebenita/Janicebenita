@@ -214,15 +214,15 @@ International Journal of Engineering Research & Technology (IJERT)
 <p align="center">
 
 <a href="https://github.com/Janicebenita/AI-Powered-Concrete-Crack-Detection-System-with-Explainable-AI-Grad-CAM-">
-<img src="https://img.shields.io/badge/Repository-GitHub-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/REPOSITORY-GITHUB-black?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="YOUR_PAPER_LINK">
-<img src="[https://www.ijert.org/explainable-deep-learning-framework-for-automated-concrete-crack-detection-using-resnet-18-ijertv15is050984]/badge/Research-Publication-blue?style=for-the-badge"/>
+<a href="https://www.ijert.org/explainable-deep-learning-framework-for-automated-concrete-crack-detection-using-resnet-18-ijertv15is050984">
+<img src="https://img.shields.io/badge/RESEARCH-PUBLICATION-blue?style=for-the-badge"/>
 </a>
 
-<a href="YOUR_DEMO_LINK">
-<img src="https://img.shields.io/badge/Demo-View-green?style=for-the-badge"/>
+<a href="https://www.ijert.org/explainable-deep-learning-framework-for-automated-concrete-crack-detection-using-resnet-18-ijertv15is050984">
+<img src="https://img.shields.io/badge/IJERT-VIEW%20PAPER-green?style=for-the-badge"/>
 </a>
 
 </p>
