@@ -275,10 +275,11 @@ Developed for automated market signal generation using technical indicators and 
 
 ✅ Time-Series Analytics
 
-🔗 Repository:
-
-https://github.com/Janicebenita/Data-Driven-Real-Time-Stock-Trading-Signal-System-with-RSI-MA-Strategy-and-Telegram-Alerts
-
+<p align="center">
+<a href="https://github.com/Janicebenita/Data-Driven-Real-Time-Stock-Trading-Signal-System-with-RSI-MA-Strategy-and-Telegram-Alerts">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 ---
 
 # 💼 Professional Experience
