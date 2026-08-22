@@ -660,48 +660,56 @@ Responsive Web Applications • Frontend Development • API Integration • UI/
 </p>
 
 ---
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
 # 📊 GitHub Engineering Activity
 
 <p align="center">
 
-<a href="https://github.com/Janicebenita">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Janicebenita&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    width="49%"
-    alt="Janice Benita GitHub Statistics"
-  />
-</a>
-
-<a href="https://github.com/Janicebenita">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janicebenita&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    width="42%"
-    alt="Janice Benita Most Used Languages"
-  />
-</a>
-
-</p>
-
-<p align="center">
-
 <a href="https://github.com/Janicebenita?tab=repositories">
-<img src="https://img.shields.io/badge/📂%20EXPLORE-ALL%20REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/📂%20PROJECTS-EXPLORE%20REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Janicebenita">
+<img src="https://img.shields.io/badge/👩‍💻%20GITHUB-Janicebenita-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Janicebenita?tab=stars">
-<img src="https://img.shields.io/badge/⭐%20GITHUB-PROFILE-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/⭐%20OPEN%20SOURCE-PROJECTS-F59E0B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Janicebenita&theme=tokyonight&hide_border=true" height="175"/>
+---
 
+### 🚀 Engineering Portfolio
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AI%20%26%20ML-Research%20%26%20Engineering-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-XAI-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Agentic%20AI-Human%20Governed-16A34A?style=flat-square"/>
+<img src="https://img.shields.io/badge/Digital%20Twins-Operational%20Intelligence-F97316?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cloud-Deployed%20Prototypes-0EA5E9?style=flat-square"/>
+
+<p align="center">
 </p>
+
+| Engineering Area | Selected Work |
+|---|---|
+| 🚆 **Predictive Maintenance AI** | ForgeMind Rail |
+| 🤖 **Agentic AI / Digital Twin** | SentinelOps Nexus |
+| 🦷 **Explainable Clinical AI** | EndoXAI-RCT |
+| 📊 **Quality Intelligence** | DQIP |
+| 🩺 **Healthcare Operations UX** | CareScope Analytics |
+| 🔍 **Computer Vision / XAI** | Concrete Crack Detection |
+| 🌐 **Full-Stack Engineering** | NGO MIS Platform |
+| 📈 **Data Analytics** | Stock Signal Intelligence |
+
+---
+
+### 🧠 Development Focus
+
+**AI Engineering** • **Machine Learning** • **Computer Vision** • **Explainable AI** •  
+**Agentic AI** • **Digital Twins** • **Cloud Deployment** • **Data Analytics**
 
 ---
 
@@ -746,3 +754,4 @@ Responsive Web Applications • Frontend Development • API Integration • UI/
 **AI Engineering • Research • Explainability • Human-Governed Intelligence**
 
 </p>
+
