@@ -313,29 +313,130 @@ Flask • MySQL • JavaScript • HTML • CSS
 
 ---
 
-# 🔥 Audio-Visual Fire & Smoke Detection System
+# 🏥 CareScope Analytics
 
-### Real-Time Multimodal AI (Ongoing Project)
+### Predictive Healthcare Operations Command Center
 
-Combining:
+<p align="center">
+  <img src="https://img.shields.io/badge/🏆%20Frontend%20Wars%202026-TOP%2010%20FINALIST-FFD700?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎨%20UI%20Master-BADGE%20HOLDER-8B5CF6?style=for-the-badge" />
+</p>
 
-- Computer Vision
-- CNN Audio Classification
-- YOLOv8 Detection
-- Audio-Visual Fusion
-- Emergency Intelligence
+<p align="center">
+  <b>See what is happening now. Understand every patient journey.<br>
+  Prepare for what comes next.</b>
+</p>
 
-### Features
+**CareScope Analytics** is a frontend-only healthcare analytics SaaS platform designed as an intelligent hospital operations command center.
 
-✅ Fire Detection
+It transforms complex hospital activity into an interactive workspace for:
 
-✅ Smoke Detection
+🏥 **Hospital Operations** • 🧑‍⚕️ **Patient Journeys** • 📊 **Healthcare Analytics** •  
+🔮 **Simulated Forecasting** • 🚑 **Resource Intelligence** • 🗺️ **Hospital Digital Twin**
 
-✅ Audio Intelligence
+---
 
-✅ Reduced False Positives
+### 🏆 Recognition
 
-✅ Real-Time Monitoring
+| Achievement | Recognition |
+|---|---|
+| 🏆 **Frontend Wars 2026** | **Top 10 Finalist** |
+| 🎨 **UI Master** | **Badge Holder** |
+| 💻 Category | Healthcare Analytics SaaS |
+| 🧠 Focus | Operational Intelligence & Predictive UX |
+| 🗺️ Differentiator | Interactive Hospital Digital Twin |
+
+---
+
+### ✨ Key Capabilities
+
+| Module | Capability |
+|---|---|
+| 📊 **Operations Command Center** | Hospital-wide KPIs, patient activity and capacity intelligence |
+| 🔮 **Predictive Intelligence** | Simulated patient-load, bed-occupancy and seasonal forecasts |
+| 🧑‍⚕️ **Patient Journey** | Interactive admission-to-discharge treatment timeline |
+| 📅 **Smart Scheduling** | Interactive appointment booking and calendar management |
+| 🚑 **Resource Intelligence** | ICU beds, oxygen, ventilators, blood bank and ambulance monitoring |
+| 📑 **Reports & Exports** | Dynamic filtering, CSV export and print/PDF support |
+| 🔎 **Global Search** | Search across patients, doctors and reports |
+| 🗺️ **Hospital Digital Twin** | Interactive spatial view of hospital departments and operational health |
+
+---
+
+### 🗺️ Signature Feature — Hospital Digital Twin
+
+CareScope goes beyond a conventional healthcare dashboard with an interactive **Hospital Digital Twin**.
+
+Users can explore key departments including:
+
+**Emergency → ICU → Radiology → OPD → Pharmacy**
+
+and inspect their:
+
+- 👥 Patient load
+- 🧑‍⚕️ Staff availability
+- 🛏️ Capacity
+- 🚦 Operational status
+- 🔔 Recent alerts
+
+This converts conventional healthcare analytics into an **explorable operational model of the hospital**.
+
+---
+
+### ⚡ Built Under Frontend-Only Constraints
+
+CareScope was engineered without a backend or external data service.
+
+> 🔒 **No Backend • No Database • No Authentication Service • No External API**
+
+All patient records, appointments, clinical activity, resource values and simulated forecasts are generated from **internally consistent local typed mock data**.
+
+---
+
+### 🛠️ Technology Stack
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-Strict-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-Build-646CFF?style=flat-square&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Framer-Motion-FF0055?style=flat-square&logo=framer&logoColor=white" />
+<img src="https://img.shields.io/badge/Recharts-Visualization-22B5BF?style=flat-square" />
+
+</p>
+
+---
+
+### 💡 Why CareScope?
+
+Hospital information is often distributed across separate systems for patients, appointments, staffing, diagnostics and resources.
+
+CareScope explores how a unified digital command center could help teams:
+
+### 👀 See Now → 🩺 Understand → 🔮 Anticipate → 🏨 Coordinate → ⚡ Act
+
+with a calm, responsive and information-rich healthcare operations experience.
+
+---
+
+<p align="center">
+
+<a href="PASTE_CARESCOPE_REPOSITORY_URL_HERE">
+<img src="https://img.shields.io/badge/📂%20EXPLORE%20CARESCOPE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+> ⚕️ **Demonstration Notice:** All patients, diagnoses, laboratory values, forecasts and operational metrics are fictional. CareScope Analytics is a hackathon demonstration and is not intended for clinical diagnosis, treatment decisions or real hospital operations.
+
+<p align="center">
+
+<a href="https://github.com/Janicebenita/carescope-analytics">
+<img src="https://img.shields.io/badge/📂%20EXPLORE%20CARESCOPE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
