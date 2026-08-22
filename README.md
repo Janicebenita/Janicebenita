@@ -523,7 +523,14 @@ All data is generated from internally consistent typed mock datasets, allowing t
 # 06. 🔍 AI-Powered Concrete Crack Detection
 
 ### 🏗️ Explainable Computer Vision for Infrastructure Inspection
+<p align="center">
 
+<img src="https://img.shields.io/badge/🏗️%20INFRASTRUCTURE-AI-F97316?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🔍%20CRACK-DETECTION-DC2626?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🔥%20Grad--CAM-EXPLAINABLE%20AI-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📄%20RESEARCH-PUBLISHED-2563EB?style=for-the-badge"/>
+
+</p>
 ### Published Computer Vision & Infrastructure AI Research
 
 An Explainable Deep Learning framework developed for automated concrete crack detection, classification and visual interpretation.
