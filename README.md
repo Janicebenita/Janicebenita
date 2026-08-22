@@ -83,11 +83,11 @@ Flask • Git • GitHub • REST APIs
 
 ---
 
-# 🔥 Featured Projects
+# 🔥Few Featured Salient Projects
 
 ---
 
-# 📊 DQIP — Digital Quality Intelligence Platform
+# 01. 📊 DQIP — Digital Quality Intelligence Platform
 
 ### 🧠 AI-Powered Cross-Domain Quality Intelligence & Six Sigma Analytics
 
@@ -197,7 +197,7 @@ The **Construction Quality** workspace serves as the validated demonstration wor
 </p>
 ---
 
-# 🦷 EndoXAI-RCT
+# 02. 🦷 EndoXAI-RCT
 
 ### Explainable Multi-Model AI for Clinical Image Review & Root Canal Treatment Decision Support
 
@@ -362,7 +362,7 @@ AI outputs are designed to provide **reviewable evidence and decision support**.
 </div>
 ---
 
-# 🏗️ AI-Powered Concrete Crack Detection System
+# 03. 🏗️ AI-Powered Concrete Crack Detection System
 
 ### Published Infrastructure AI Research
 
@@ -413,7 +413,7 @@ International Journal of Engineering Research & Technology (IJERT)
 </p>
 ---
 
-# 🌍 Full-Stack NGO Management & MIS Platform
+# 04. 🌍 Full-Stack NGO Management & MIS Platform
 
 ### Enterprise Operations Dashboard
 
@@ -437,7 +437,7 @@ Flask • MySQL • JavaScript • HTML • CSS
 
 ---
 
-# 🏥 CareScope Analytics
+# 05. 🏥 CareScope Analytics
 
 ### Predictive Healthcare Operations Command Center
 
@@ -564,7 +564,7 @@ with a calm, responsive and information-rich healthcare operations experience.
 
 ---
 
-# 📈 Real-Time Stock Trading Signal Intelligence Platform
+# 06. 📈 Real-Time Stock Trading Signal Intelligence Platform
 
 ### Financial Analytics System
 
