@@ -197,45 +197,169 @@ The **Construction Quality** workspace serves as the validated demonstration wor
 </p>
 ---
 
-# 🦷 EndoXAI – Explainable AI for Root Canal Treatment Prediction
+# 🦷 EndoXAI-RCT
 
-### Healthcare AI Clinical Decision Support System
-
-An Explainable AI framework developed to assist clinicians in Root Canal Treatment prediction using intelligent diagnostic support.
-
-### Features
-
-✅ Dental X-Ray Analysis
-
-✅ Clinical Decision Support
-
-✅ Explainable AI Visualizations
-
-✅ Treatment Prediction Intelligence
-
-### Focus
-
-Building trustworthy, transparent, and interpretable AI systems for healthcare.
+### Explainable Multi-Model AI for Clinical Image Review & Root Canal Treatment Decision Support
 
 <p align="center">
 
-<a href="https://github.com/Janicebenita/EndoXAI">
-<img src="https://img.shields.io/badge/REPOSITORY-GITHUB-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/🏆%20IDDC%202026-2nd%20PRIZE-FFD700?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/📄%20IEEE%20ICRISET%202026-PAPER%20ACCEPTED-00629B?style=for-the-badge&logo=ieee&logoColor=white"/>
+
+</p>
+
+<p align="center">
+<b>
+From panoramic dental X-rays → multi-model AI evidence → explainability → human clinical review
+</b>
+</p>
+
+**EndoXAI-RCT** is an Explainable AI research and software platform developed to explore how multiple AI models can support structured review of panoramic dental radiographs in the context of **Root Canal Treatment (RCT)** assessment.
+
+Rather than stopping at defect detection or a single prediction score, EndoXAI-RCT extends the workflow toward **evidence-grounded, explainable and human-governed clinical decision support**.
+
+---
+
+## 🏆 Research Recognition
+
+| Recognition | Achievement |
+|---|---|
+| 🥈 **International Dental Conference — IDDC 2026, Mumbai** | **2nd Prize** |
+| 📄 **ICRISET 2026** | **Paper Accepted for Presentation** |
+| 🦷 Clinical Application | Panoramic Dental Image / RCT Review |
+| 🧠 AI Architecture | Multi-Model Explainable AI |
+| 🔥 Explainability | Grad-CAM / Evidence Visualization |
+| 👩‍⚕️ Decision Boundary | Human-in-the-Loop Review |
+
+---
+
+## 💡 Beyond Conventional Dental AI
+
+A conventional dental AI workflow often ends at:
+
+### 🩻 Image → 🧠 Model → 🎯 Prediction
+
+**EndoXAI-RCT goes further:**
+
+### 🩻 Image → 🛡️ Validation → 🧠 Multi-Model AI → 🔎 Evidence → 🧭 Routing → 🔥 XAI → 👩‍⚕️ Human Review
+
+The objective is not simply to ask:
+
+> **“What did the AI predict?”**
+
+but also:
+
+> **“Which model generated the evidence, what supports the result, how can it be explained, and what should remain under human review?”**
+
+---
+
+## ✨ Key Capabilities
+
+<table>
+<tr>
+
+<td width="25%" valign="top">
+
+### 🧠 Multi-Model AI
+Coordinates multiple AI components rather than relying on a single black-box prediction.
+
+</td>
+
+<td width="25%" valign="top">
+
+### 🎯 Model Roles
+Separates primary and supporting/advisory evidence within the review architecture.
+
+</td>
+
+<td width="25%" valign="top">
+
+### 🔥 Explainable AI
+Uses visual evidence such as Grad-CAM to support interpretation of model behaviour.
+
+</td>
+
+<td width="25%" valign="top">
+
+### 👩‍⚕️ Human Review
+Preserves the clinician as the final decision authority.
+
+</td>
+
+</tr>
+</table>
+
+### Core architectural focus
+
+✅ Panoramic Dental X-Ray Analysis  
+✅ Multi-Model AI Review  
+✅ Primary vs Advisory Model Roles  
+✅ Evidence-Oriented Decision Support  
+✅ Explainable AI Visualization  
+✅ Grad-CAM Analysis  
+✅ Evidence-Aligned Review  
+✅ Failure-Aware Processing  
+✅ Human-in-the-Loop Decision Boundary  
+✅ Cloud-Deployed Research Prototype  
+
+---
+
+## 🔬 Research Contribution
+
+The engineering work associated with EndoXAI-RCT investigates a broader question than whether an AI model can detect a dental condition:
+
+> ### **How can heterogeneous AI models, evidence, explainability and human review be orchestrated into a deployable clinical-image decision-support architecture?**
+
+This work is represented in the paper:
+
+### 📄 *“EndoXAI-RCT: A Deployable Explainable AI Software Architecture for Multi-Model Clinical Image Review”*
+
+**Accepted for presentation at ICRISET 2026.**
+
+The architecture focuses on:
+
+**Model-role separation • Primary/advisory routing • Health-aware deployment • Failure-aware fallback • Evidence-aligned visualization • Artifact persistence • Human-in-the-loop review**
+
+---
+
+## 🌐 Explore EndoXAI-RCT
+
+<p align="center">
+
+<a href="https://github.com/Janicebenita/EndoXAI-RCT">
+<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/HEALTHCARE-AI-blue?style=for-the-badge"/>
+<a href="https://endoxai-rct-459576379252.asia-south1.run.app/">
+<img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-GOOGLE%20CLOUD%20RUN-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/XAI-EXPLAINABLE%20AI-purple?style=for-the-badge"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/CLINICAL-DECISION%20SUPPORT-green?style=for-the-badge"/>
+<a href="https://huggingface.co/spaces/janicecodes/EndoXAI-RCT">
+<img src="https://img.shields.io/badge/🤗%20HUGGING%20FACE-ENDOXAI--RCT-FFD21E?style=for-the-badge"/>
 </a>
 
 </p>
+
+---
+
+## ⚕️ Responsible AI Boundary
+
+> **EndoXAI-RCT is a research and engineering prototype, not an autonomous diagnostic system or medical device.**
+
+AI outputs are designed to provide **reviewable evidence and decision support**. Final clinical interpretation remains with qualified healthcare professionals.
+
+---
+
+<div align="center">
+
+### 🦷 **EndoXAI-RCT**
+
+**Clinical AI × Computer Vision × Explainability × Software Architecture**
+
+### 🧠 Models explain · 🔎 Evidence supports · 👩‍⚕️ Humans decide
+
+</div>
 ---
 
 # 🏗️ AI-Powered Concrete Crack Detection System
