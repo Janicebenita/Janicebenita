@@ -63,23 +63,35 @@ My work focuses on:
 
 ---
 
-# 🧠 Technical Stack
+## 🧠 Technical Stack
 
-## Programming & Development
+<p align="center">
 
-Python • Java • JavaScript • HTML • CSS • SQL
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,ts&theme=light" alt="Programming Languages"/>
 
-## Artificial Intelligence & Machine Learning
+<br/>
 
-PyTorch • OpenCV • YOLOv8 • ResNet-18 • Deep Learning • Explainable AI • Grad-CAM
+<img src="https://skillicons.dev/icons?i=pytorch,opencv,react,fastapi,flask&theme=light" alt="AI and Development"/>
 
-## Data Analytics
+<br/>
 
-Pandas • NumPy • Plotly • Streamlit • Statistical Analytics • Six Sigma
+<img src="https://skillicons.dev/icons?i=gcp,docker,git,github,vscode&theme=light" alt="Cloud and Engineering Tools"/>
 
-## Deployment & Tools
+</p>
 
-Flask • Git • GitHub • REST APIs
+<p align="center">
+<sub>
+<b>AI / ML:</b> Deep Learning • Computer Vision • YOLO • ResNet • Explainable AI • Grad-CAM
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<b>Data:</b> Pandas • NumPy • Plotly • Streamlit • Statistical Analytics • Six Sigma
+</sub>
+</p>
+
+<p align="center">
+<sub>
+<b>Engineering:</b> REST APIs • Cloud Deployment • Agentic AI • RAG • Digital Twins • Evidence-Grounded AI
+</sub>
+</p>
 
 ---
 
