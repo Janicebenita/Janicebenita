@@ -411,13 +411,15 @@ The **Construction Quality** workspace is the validated demonstration workflow a
 &nbsp;&nbsp;
 
 <a href="https://github.com/Janicebenita/DQIP-Digital-Quality-Intelligence-Platform">
+<p align="center">
 <img src="https://img.shields.io/badge/EXPLORE%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
 <p align="center">
-<b>Transforming quality records into transparent, actionable and defensible intelligence.</b>
+<b>Transforming quality records into transparent, actionable and defensible intelligence.
+</b>
 </p>
 
 ---
