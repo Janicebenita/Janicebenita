@@ -665,7 +665,39 @@ Responsive Web Applications • Frontend Development • API Integration • UI/
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Janicebenita&show_icons=true&theme=tokyonight&hide_border=true" height="175"/>
+# 📊 GitHub Engineering Activity
+
+<p align="center">
+
+<a href="https://github.com/Janicebenita">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Janicebenita&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    width="49%"
+    alt="Janice Benita GitHub Statistics"
+  />
+</a>
+
+<a href="https://github.com/Janicebenita">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janicebenita&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    width="42%"
+    alt="Janice Benita Most Used Languages"
+  />
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/Janicebenita?tab=repositories">
+<img src="https://img.shields.io/badge/📂%20EXPLORE-ALL%20REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Janicebenita?tab=stars">
+<img src="https://img.shields.io/badge/⭐%20GITHUB-PROFILE-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Janicebenita&theme=tokyonight&hide_border=true" height="175"/>
 
