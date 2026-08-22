@@ -87,53 +87,114 @@ Flask • Git • GitHub • REST APIs
 
 ---
 
-# 📊 Concrete Strength Analytics & Six Sigma Intelligence Platform
+# 📊 DQIP — Digital Quality Intelligence Platform
 
-### AI-Powered Construction Quality Intelligence Platform
+### 🧠 AI-Powered Cross-Domain Quality Intelligence & Six Sigma Analytics
 
-An enterprise-grade analytics system developed for concrete quality evaluation, statistical process control, Six Sigma capability analysis, and risk intelligence.
+**DQIP** is a cross-domain quality intelligence platform designed to transform routine quality records into **decision-ready engineering intelligence**.
 
-### Key Capabilities
+Rather than limiting quality analysis to simple pass/fail compliance, DQIP combines **statistical quality analysis, Six Sigma process capability, abnormality detection, risk intelligence, corrective-action guidance, and executive reporting** within a unified analytical framework.
 
-✅ ACI Acceptance Verification
-
-✅ Sigma Level Evaluation
-
-✅ Cp & Cpk Analysis
-
-✅ Coefficient of Variation Monitoring
-
-✅ Quality Risk Detection
-
-✅ Supplier Performance Benchmarking
-
-✅ Mix Design Analytics
-
-✅ Executive Dashboard Reporting
-
-### Why It Matters
-
-Most projects only verify whether concrete strength meets the specified grade.
-
-This platform goes beyond compliance by identifying:
-
-- Hidden quality variation
-- Process instability
-- Supplier inconsistencies
-- Future quality risks
-
-before they impact project performance.
-
-### Technologies
-
-Python • Streamlit • Pandas • Plotly • Six Sigma Analytics
+The platform currently provides dedicated quality workspaces across **six domains**:
 
 <p align="center">
-<a href="https://github.com/Janicebenita/Concrete-Strength-Analytics-Six-Sigma-Intelligence-Platform">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+
+🏗️ **Construction** &nbsp; • &nbsp;
+🏭 **Manufacturing** &nbsp; • &nbsp;
+🔬 **Laboratory QA** &nbsp; • &nbsp;
+🏥 **Healthcare Quality** &nbsp; • &nbsp;
+💊 **Pharmaceutical Quality** &nbsp; • &nbsp;
+🌱 **Environmental Monitoring**
+
 </p>
 
+---
+
+### ✨ Core Intelligence Capabilities
+
+| Capability | DQIP Intelligence |
+|---|---|
+| 📊 **Statistical Analytics** | Mean, variation, standard deviation, CV, trends and distributions |
+| 🎯 **Six Sigma Intelligence** | Sigma Level, Cp, Cpk, Pp, Ppk, Yield and DPMO |
+| 🚦 **Risk Intelligence** | Exceptions, outliers, process drift and abnormality detection |
+| 🔍 **Process Intelligence** | Supplier, machine, instrument, department and location comparisons |
+| 💡 **Corrective-Action Support** | Possible causes, containment and corrective/preventive guidance |
+| 📈 **Interactive Dashboards** | Domain-specific engineering and management visualisation |
+| 📑 **Automated Reporting** | Evaluated datasets, quality summaries and executive PDF reports |
+
+---
+
+### 💡 Why DQIP?
+
+Traditional quality systems often answer:
+
+> **“Did the result pass or fail?”**
+
+DQIP is designed to go further:
+
+> **“Is the process stable?”**  
+> **“Is it statistically capable?”**  
+> **“Where is variation developing?”**  
+> **“What is driving the risk?”**  
+> **“What should the quality team investigate next?”**
+
+This enables quality teams to move from:
+
+### 📋 Compliance → 📊 Analytics → 🚦 Risk → 💡 Corrective Intelligence
+
+---
+
+### 🏗️ Validated Demonstration Workflow
+
+The **Construction Quality** workspace serves as the validated demonstration workflow and includes:
+
+- ✅ Concrete cube-strength evaluation
+- ✅ Grade-aware acceptance analysis
+- ✅ ACI/IS-oriented quality intelligence
+- ✅ Sigma Level evaluation
+- ✅ Cp, Cpk, Pp and Ppk analysis
+- ✅ Coefficient of Variation monitoring
+- ✅ Supplier and mix-performance comparison
+- ✅ Statistical process monitoring
+- ✅ Quality-risk identification
+- ✅ Corrective-action guidance
+
+> **Validation Note:** Construction Quality is the validated demonstration workflow. Manufacturing, Laboratory QA, Healthcare, Pharmaceuticals and Environmental Monitoring are currently illustrative domain profiles and require independent domain validation before production use.
+
+---
+
+### ⚙️ Technology Stack
+
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-Application-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Analytics-150458?style=flat-square&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-Visualization-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Six Sigma](https://img.shields.io/badge/Quality-Six%20Sigma-0F766E?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-16A34A?style=flat-square)
+
+</p>
+
+---
+
+<p align="center">
+
+<a href="https://huggingface.co/spaces/janicecodes/Concrete_strength_analysis_and_6_sigma_intelligence">
+<img src="https://img.shields.io/badge/🚀%20LAUNCH%20LIVE%20DQIP-FF4B4B?style=for-the-badge"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/Janicebenita/DQIP-Digital-Quality-Intelligence-Platform">
+<img src="https://img.shields.io/badge/📂%20EXPLORE%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+<b>Transforming quality records into transparent, actionable and defensible intelligence.</b>
+</p>
 ---
 
 # 🦷 EndoXAI – Explainable AI for Root Canal Treatment Prediction
