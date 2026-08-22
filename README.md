@@ -63,6 +63,33 @@ My work focuses on:
 
 ---
 
+## 🎓 Education
+
+<table>
+<tr>
+<td width="72%">
+
+### B.Tech — Information Technology
+
+**St. Joseph's College of Engineering (Autonomous), Chennai**
+
+IV Year Undergraduate
+
+</td>
+
+<td width="28%" align="center">
+
+### 📊 8.30 / 10
+**CGPA**
+
+</td>
+</tr>
+</table>
+
+**Academic & Engineering Focus**  
+Artificial Intelligence • Machine Learning • Computer Vision • Data Analytics • Software Engineering
+
+---
 ## 🧠 Technical Stack
 
 ### 💻 Programming & Development
