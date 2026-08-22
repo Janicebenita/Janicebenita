@@ -183,7 +183,7 @@ The **Construction Quality** workspace serves as the validated demonstration wor
 <a href="https://huggingface.co/spaces/janicecodes/Concrete_strength_analysis_and_6_sigma_intelligence">
 <img src="https://img.shields.io/badge/🚀%20LAUNCH%20LIVE%20DQIP-FF4B4B?style=for-the-badge"/>
 </a>
-
+<p align="center">
 &nbsp;&nbsp;
 
 <a href="https://github.com/Janicebenita/DQIP-Digital-Quality-Intelligence-Platform">
