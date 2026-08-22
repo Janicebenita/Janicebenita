@@ -65,36 +65,25 @@ My work focuses on:
 
 ## 🧠 Technical Stack
 
-<p align="center">
+### 💻 Programming & Development
+Python • Java • JavaScript • TypeScript • HTML • CSS • SQL
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,ts&theme=light" alt="Programming Languages"/>
+### 🤖 Artificial Intelligence & Machine Learning
+PyTorch • OpenCV • YOLO • ResNet • Deep Learning • Computer Vision • Explainable AI • Grad-CAM • RAG • Agentic AI
 
-<br/>
+### 📊 Data & Analytics
+Pandas • NumPy • Plotly • Streamlit • Statistical Analytics • Six Sigma • Data Visualization
 
-<img src="https://skillicons.dev/icons?i=pytorch,opencv,react,fastapi,flask&theme=light" alt="AI and Development"/>
+### ☁️ Cloud & Deployment
+Google Cloud Platform • Google Cloud Run • Hugging Face Spaces • Render • Railway • Vercel • Docker
 
-<br/>
+### ⚙️ Backend & Application Engineering
+FastAPI • Flask • REST APIs • React • Next.js • Streamlit
 
-<img src="https://skillicons.dev/icons?i=gcp,docker,git,github,vscode&theme=light" alt="Cloud and Engineering Tools"/>
-
-</p>
-
-<p align="center">
-<sub>
-<b>AI / ML:</b> Deep Learning • Computer Vision • YOLO • ResNet • Explainable AI • Grad-CAM
-&nbsp;&nbsp;|&nbsp;&nbsp;
-<b>Data:</b> Pandas • NumPy • Plotly • Streamlit • Statistical Analytics • Six Sigma
-</sub>
-</p>
-
-<p align="center">
-<sub>
-<b>Engineering:</b> REST APIs • Cloud Deployment • Agentic AI • RAG • Digital Twins • Evidence-Grounded AI
-</sub>
-</p>
+### 🛠️ Engineering & Development Tools
+Git • GitHub • VS Code • Docker • GitHub Actions • CI/CD
 
 ---
-
 # 🚀 Flagship AI & Engineering Projects
 
 <p align="center">
