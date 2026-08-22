@@ -83,62 +83,289 @@ Flask • Git • GitHub • REST APIs
 
 ---
 
-# 🔥Few Featured Salient Projects
+# 🚀 Flagship AI & Engineering Projects
+
+<p align="center">
+<b>
+Applied AI • Explainable AI • Agentic Systems • Computer Vision • Digital Twins • Quality Intelligence
+</b>
+</p>
 
 ---
 
-# 01. 📊 DQIP — Digital Quality Intelligence Platform
+# 01. 🚆 ForgeMind Rail
 
-### 🧠 AI-Powered Cross-Domain Quality Intelligence & Six Sigma Analytics
+### Evidence-Grounded AI for Predictive Rail Infrastructure Maintenance
 
-**DQIP** is a cross-domain quality intelligence platform designed to transform routine quality records into **decision-ready engineering intelligence**.
+<p align="center">
 
-Rather than limiting quality analysis to simple pass/fail compliance, DQIP combines **statistical quality analysis, Six Sigma process capability, abnormality detection, risk intelligence, corrective-action guidance, and executive reporting** within a unified analytical framework.
+<img src="https://img.shields.io/badge/AI-PREDICTIVE%20MAINTENANCE-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAIL-DIGITAL%20INTELLIGENCE-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HUMAN-GOVERNED-16A34A?style=for-the-badge"/>
 
-The platform currently provides dedicated quality workspaces across **six domains**:
+</p>
+
+**ForgeMind Rail** is an evidence-grounded AI platform designed to connect fragmented railway asset information with predictive maintenance intelligence.
+
+Instead of presenting an unsupported AI recommendation, the architecture is designed around a traceable engineering workflow:
+
+### 🚆 Asset Evidence → 🧠 AI Analysis → 🔎 Evidence → 🚦 Risk → 💡 Recommendation → 👷 Human Decision
+
+The platform explores how inspection evidence, asset condition, operational context and AI-generated intelligence can be combined into a reviewable maintenance-support environment.
+
+### ✨ Core Capabilities
+
+| Capability | Engineering Purpose |
+|---|---|
+| 🚆 **Asset Intelligence** | Organises railway asset information around engineering context |
+| 🔎 **Evidence Grounding** | Connects recommendations with supporting evidence |
+| 🧠 **AI Analysis** | Converts operational signals into maintenance intelligence |
+| ⚠️ **Risk Context** | Surfaces abnormal conditions and maintenance priorities |
+| 📊 **Operational View** | Provides consolidated engineering information |
+| 👷 **Human Review** | Keeps maintenance authorization with engineers |
+| 📑 **Evidence Record** | Preserves reviewable decision-support information |
+
+> **Safety Boundary:** ForgeMind Rail provides engineering decision support. Operational maintenance actions are **not autonomously executed**.
+
+<p align="center">
+<b>Predict earlier → Explain why → Show the evidence → Let engineers decide</b>
+</p>
+
+---
+
+# 02. 🦷 EndoXAI-RCT
+
+### Explainable Multi-Model AI for Clinical Image Review & Root Canal Treatment Decision Support
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/IDDC%202026-2nd%20PRIZE-FFD700?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ICRISET%202026-PAPER%20ACCEPTED-00629B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/XAI-CLINICAL%20REVIEW-8B5CF6?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+<b>
+Panoramic Dental X-ray → Validation → Multi-Model AI → Evidence → Routing → XAI → Human Review
+</b>
+</p>
+
+**EndoXAI-RCT** is an Explainable AI research and software platform investigating how heterogeneous AI models can be orchestrated to support structured review of panoramic dental radiographs in the context of **Root Canal Treatment (RCT) assessment**.
+
+Rather than ending with defect detection or a single prediction score, the system extends the AI pipeline toward **evidence-grounded, explainable and human-governed clinical decision support**.
+
+---
+
+### 🏆 Research Recognition
+
+| Recognition | Achievement |
+|---|---|
+| 🥈 **International Dental Conference — IDDC 2026, Mumbai** | **2nd Prize** |
+| 📄 **ICRISET 2026** | **Paper Accepted for Presentation** |
+| 🦷 Application | Panoramic Dental Image / RCT Review |
+| 🧠 Architecture | Multi-Model Explainable AI |
+| 🔥 Explainability | Grad-CAM / Evidence Visualization |
+| 👩‍⚕️ Decision Boundary | Human-in-the-Loop Clinical Review |
+
+---
+
+### 💡 Beyond Conventional Dental AI
+
+A conventional workflow may end at:
+
+### 🩻 Image → 🧠 Model → 🎯 Prediction
+
+**EndoXAI-RCT goes further:**
+
+### 🩻 Image → 🛡️ Validation → 🧠 Multi-Model AI → 🔎 Evidence → 🧭 Routing → 🔥 XAI → 👩‍⚕️ Human Review
+
+The system is designed to ask not only:
+
+> **“What did the AI predict?”**
+
+but also:
+
+> **“Which model produced the evidence?”**  
+> **“What supports the result?”**  
+> **“How can the model behaviour be explained?”**  
+> **“What must remain under human review?”**
+
+---
+
+### ✨ Core Architecture
+
+| Capability | Purpose |
+|---|---|
+| 🧠 **Multi-Model AI** | Coordinates heterogeneous AI components |
+| 🎯 **Model Roles** | Separates primary and advisory model responsibilities |
+| 🔎 **Evidence Grounding** | Links AI outputs with reviewable evidence |
+| 🔥 **Explainable AI** | Provides Grad-CAM and evidence-oriented visualisation |
+| 🛡️ **Failure-Aware Processing** | Supports safer handling of unavailable or unsuitable outputs |
+| 👩‍⚕️ **Human Review** | Preserves qualified clinical interpretation |
+
+---
+
+### 🔬 Research Contribution
+
+The associated engineering research investigates:
+
+> ### **How can heterogeneous AI models, evidence, explainability and human review be orchestrated into a deployable clinical-image decision-support architecture?**
+
+The work is represented by:
+
+### 📄 *EndoXAI-RCT: A Deployable Explainable AI Software Architecture for Multi-Model Clinical Image Review*
+
+**Accepted for presentation at ICRISET 2026.**
+
+Architectural focus:
+
+**Model-role separation • Primary/advisory routing • Health-aware deployment • Failure-aware fallback • Evidence-aligned visualization • Artifact persistence • Human-in-the-loop review**
+
+---
+
+### 🌐 Explore EndoXAI-RCT
+
+<p align="center">
+
+<a href="https://github.com/Janicebenita/EndoXAI-RCT">
+<img src="https://img.shields.io/badge/SOURCE%20CODE-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://endoxai-rct-459576379252.asia-south1.run.app/">
+<img src="https://img.shields.io/badge/LIVE%20DEMO-GOOGLE%20CLOUD%20RUN-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+</a>
+
+<a href="https://huggingface.co/spaces/janicecodes/EndoXAI-RCT">
+<img src="https://img.shields.io/badge/HUGGING%20FACE-ENDOXAI--RCT-FFD21E?style=for-the-badge"/>
+</a>
+
+</p>
+
+> ⚕️ **Responsible AI Notice:** EndoXAI-RCT is a research and engineering prototype and is not an autonomous diagnostic system or medical device. Final clinical interpretation remains with qualified healthcare professionals.
+
+<p align="center">
+<b>🧠 Models explain • 🔎 Evidence supports • 👩‍⚕️ Humans decide</b>
+</p>
+
+---
+
+# 03. 🤖 SentinelOps Nexus
+
+### Enterprise Operational Digital Twin & Human-Governed Agentic AI
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AI%20AGENT%20BUILDER%20SERIES%202026-TOP%20100-FFD700?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GRAND%20FINALE-BENGALURU-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AGENTIC%20AI-HUMAN%20GOVERNED-16A34A?style=for-the-badge"/>
+
+</p>
+
+**SentinelOps Nexus** is an enterprise operational intelligence and Digital Twin platform developed around **human-governed AI decision support**.
+
+The project was developed in connection with the **AI Agent Builder Series 2026 Grand Finale in Bengaluru**, following selection among the **Top 100 AI Agent Builders** from the community.
+
+Rather than allowing an AI agent to directly execute operational decisions, SentinelOps Nexus follows a governance-first pattern:
+
+### 📡 Operational Signals → 🌐 Digital Twin → 🔍 Detection → 🤖 AI Analysis → 📚 Evidence → 💡 Recommendation → 👤 Human Approval
+
+---
+
+### ✨ Core Capabilities
+
+| Capability | Purpose |
+|---|---|
+| 🌐 **Operational Digital Twin** | Creates contextual representation of enterprise operations |
+| 🔍 **Bottleneck Detection** | Identifies emerging operational constraints |
+| 🤖 **Agentic Analysis** | Generates structured AI-supported reasoning |
+| 📚 **Evidence Grounding** | Associates recommendations with supporting evidence |
+| ⚠️ **Risk Intelligence** | Provides context around detected operational conditions |
+| 👤 **Human Governance** | Requires review before consequential decisions |
+| 📦 **Evidence Export** | Preserves structured decision-support artifacts |
+
+---
+
+### 🛡️ Governance-First Architecture
+
+SentinelOps Nexus is designed around a simple boundary:
+
+> **AI may detect, analyse, explain and recommend — but consequential operational action remains human-controlled.**
+
+This separates **decision intelligence** from **decision authority**.
+
+---
+
+### 🏆 Recognition
+
+**Top 100 AI Agent Builder — AI Agent Builder Series 2026**
+
+**Grand Finale Participant — Bengaluru**
+
+<p align="center">
+<b>Detect → Understand → Ground → Recommend → Review → Decide</b>
+</p>
+
+---
+
+# 04. 📊 DQIP — Digital Quality Intelligence Platform
+
+### AI-Powered Cross-Domain Quality Intelligence & Six Sigma Analytics
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/QUALITY-INTELLIGENCE-0F766E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SIX%20SIGMA-PROCESS%20CAPABILITY-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DOMAINS-6-7C3AED?style=for-the-badge"/>
+
+</p>
+
+**DQIP** transforms routine quality records into **decision-ready engineering intelligence**.
+
+Instead of limiting analysis to pass/fail compliance, DQIP combines **statistical quality analytics, Six Sigma process capability, abnormality detection, risk intelligence, corrective-action guidance and executive reporting**.
+
+### 🌐 Six Quality Domains
 
 <p align="center">
 
 🏗️ **Construction** &nbsp; • &nbsp;
 🏭 **Manufacturing** &nbsp; • &nbsp;
 🔬 **Laboratory QA** &nbsp; • &nbsp;
-🏥 **Healthcare Quality** &nbsp; • &nbsp;
-💊 **Pharmaceutical Quality** &nbsp; • &nbsp;
+🏥 **Healthcare** &nbsp; • &nbsp;
+💊 **Pharmaceuticals** &nbsp; • &nbsp;
 🌱 **Environmental Monitoring**
 
 </p>
 
 ---
 
-### ✨ Core Intelligence Capabilities
+### ✨ Intelligence Layer
 
 | Capability | DQIP Intelligence |
 |---|---|
-| 📊 **Statistical Analytics** | Mean, variation, standard deviation, CV, trends and distributions |
-| 🎯 **Six Sigma Intelligence** | Sigma Level, Cp, Cpk, Pp, Ppk, Yield and DPMO |
-| 🚦 **Risk Intelligence** | Exceptions, outliers, process drift and abnormality detection |
-| 🔍 **Process Intelligence** | Supplier, machine, instrument, department and location comparisons |
-| 💡 **Corrective-Action Support** | Possible causes, containment and corrective/preventive guidance |
-| 📈 **Interactive Dashboards** | Domain-specific engineering and management visualisation |
-| 📑 **Automated Reporting** | Evaluated datasets, quality summaries and executive PDF reports |
+| 📊 **Statistical Analytics** | Mean, variation, SD, CV, trends and distributions |
+| 🎯 **Six Sigma** | Sigma Level, Cp, Cpk, Pp, Ppk, Yield and DPMO |
+| 🚦 **Risk Intelligence** | Exceptions, outliers, drift and abnormality detection |
+| 🔍 **Process Intelligence** | Supplier, machine, instrument and location comparisons |
+| 💡 **Corrective Intelligence** | Possible causes, containment and improvement guidance |
+| 📈 **Dashboards** | Domain-specific quality visualisation |
+| 📑 **Reporting** | Quality summaries and management reports |
 
 ---
 
-### 💡 Why DQIP?
+### 💡 From Compliance to Intelligence
 
 Traditional quality systems often answer:
 
 > **“Did the result pass or fail?”**
 
-DQIP is designed to go further:
+DQIP goes further:
 
 > **“Is the process stable?”**  
-> **“Is it statistically capable?”**  
+> **“Is it capable?”**  
 > **“Where is variation developing?”**  
 > **“What is driving the risk?”**  
-> **“What should the quality team investigate next?”**
-
-This enables quality teams to move from:
+> **“What should be investigated next?”**
 
 ### 📋 Compliance → 📊 Analytics → 🚦 Risk → 💡 Corrective Intelligence
 
@@ -146,7 +373,7 @@ This enables quality teams to move from:
 
 ### 🏗️ Validated Demonstration Workflow
 
-The **Construction Quality** workspace serves as the validated demonstration workflow and includes:
+The **Construction Quality** workspace is the validated demonstration workflow and includes:
 
 - ✅ Concrete cube-strength evaluation
 - ✅ Grade-aware acceptance analysis
@@ -159,7 +386,7 @@ The **Construction Quality** workspace serves as the validated demonstration wor
 - ✅ Quality-risk identification
 - ✅ Corrective-action guidance
 
-> **Validation Note:** Construction Quality is the validated demonstration workflow. Manufacturing, Laboratory QA, Healthcare, Pharmaceuticals and Environmental Monitoring are currently illustrative domain profiles and require independent domain validation before production use.
+> **Validation Note:** Other domain workspaces are illustrative profiles and require independent domain validation before production use.
 
 ---
 
@@ -172,22 +399,19 @@ The **Construction Quality** workspace serves as the validated demonstration wor
 ![Pandas](https://img.shields.io/badge/Pandas-Analytics-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-Visualization-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 ![Six Sigma](https://img.shields.io/badge/Quality-Six%20Sigma-0F766E?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-16A34A?style=flat-square)
 
 </p>
-
----
 
 <p align="center">
 
 <a href="https://huggingface.co/spaces/janicecodes/Concrete_strength_analysis_and_6_sigma_intelligence">
-<img src="https://img.shields.io/badge/🚀%20LAUNCH%20LIVE%20DQIP-FF4B4B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LAUNCH%20LIVE%20DQIP-FF4B4B?style=for-the-badge"/>
 </a>
-<p align="center">
+
 &nbsp;&nbsp;
 
 <a href="https://github.com/Janicebenita/DQIP-Digital-Quality-Intelligence-Platform">
-<img src="https://img.shields.io/badge/📂%20EXPLORE%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
@@ -195,268 +419,33 @@ The **Construction Quality** workspace serves as the validated demonstration wor
 <p align="center">
 <b>Transforming quality records into transparent, actionable and defensible intelligence.</b>
 </p>
+
 ---
 
-# 02. 🦷 EndoXAI-RCT
+# 05. 🩺 CareScope Analytics
 
-### Explainable Multi-Model AI for Clinical Image Review & Root Canal Treatment Decision Support
+### 🏥 Predictive Healthcare Operations Command Center
+
+### Predictive Healthcare Operations Command Center
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/🏆%20IDDC%202026-2nd%20PRIZE-FFD700?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/📄%20IEEE%20ICRISET%202026-PAPER%20ACCEPTED-00629B?style=for-the-badge&logo=ieee&logoColor=white"/>
+<img src="https://img.shields.io/badge/FRONTEND%20WARS%202026-TOP%2010%20FINALIST-FFD700?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UI%20MASTER-BADGE%20HOLDER-8B5CF6?style=for-the-badge"/>
 
 </p>
 
 <p align="center">
 <b>
-From panoramic dental X-rays → multi-model AI evidence → explainability → human clinical review
+See what is happening now • Understand every patient journey • Prepare for what comes next
 </b>
 </p>
 
-**EndoXAI-RCT** is an Explainable AI research and software platform developed to explore how multiple AI models can support structured review of panoramic dental radiographs in the context of **Root Canal Treatment (RCT)** assessment.
+**CareScope Analytics** is a frontend-only Healthcare Analytics SaaS platform designed as an interactive hospital operations command center.
 
-Rather than stopping at defect detection or a single prediction score, EndoXAI-RCT extends the workflow toward **evidence-grounded, explainable and human-governed clinical decision support**.
+It brings together:
 
----
-
-## 🏆 Research Recognition
-
-| Recognition | Achievement |
-|---|---|
-| 🥈 **International Dental Conference — IDDC 2026, Mumbai** | **2nd Prize** |
-| 📄 **ICRISET 2026** | **Paper Accepted for Presentation** |
-| 🦷 Clinical Application | Panoramic Dental Image / RCT Review |
-| 🧠 AI Architecture | Multi-Model Explainable AI |
-| 🔥 Explainability | Grad-CAM / Evidence Visualization |
-| 👩‍⚕️ Decision Boundary | Human-in-the-Loop Review |
-
----
-
-## 💡 Beyond Conventional Dental AI
-
-A conventional dental AI workflow often ends at:
-
-### 🩻 Image → 🧠 Model → 🎯 Prediction
-
-**EndoXAI-RCT goes further:**
-
-### 🩻 Image → 🛡️ Validation → 🧠 Multi-Model AI → 🔎 Evidence → 🧭 Routing → 🔥 XAI → 👩‍⚕️ Human Review
-
-The objective is not simply to ask:
-
-> **“What did the AI predict?”**
-
-but also:
-
-> **“Which model generated the evidence, what supports the result, how can it be explained, and what should remain under human review?”**
-
----
-
-## ✨ Key Capabilities
-
-<table>
-<tr>
-
-<td width="25%" valign="top">
-
-### 🧠 Multi-Model AI
-Coordinates multiple AI components rather than relying on a single black-box prediction.
-
-</td>
-
-<td width="25%" valign="top">
-
-### 🎯 Model Roles
-Separates primary and supporting/advisory evidence within the review architecture.
-
-</td>
-
-<td width="25%" valign="top">
-
-### 🔥 Explainable AI
-Uses visual evidence such as Grad-CAM to support interpretation of model behaviour.
-
-</td>
-
-<td width="25%" valign="top">
-
-### 👩‍⚕️ Human Review
-Preserves the clinician as the final decision authority.
-
-</td>
-
-</tr>
-</table>
-
-### Core architectural focus
-
-✅ Panoramic Dental X-Ray Analysis  
-✅ Multi-Model AI Review  
-✅ Primary vs Advisory Model Roles  
-✅ Evidence-Oriented Decision Support  
-✅ Explainable AI Visualization  
-✅ Grad-CAM Analysis  
-✅ Evidence-Aligned Review  
-✅ Failure-Aware Processing  
-✅ Human-in-the-Loop Decision Boundary  
-✅ Cloud-Deployed Research Prototype  
-
----
-
-## 🔬 Research Contribution
-
-The engineering work associated with EndoXAI-RCT investigates a broader question than whether an AI model can detect a dental condition:
-
-> ### **How can heterogeneous AI models, evidence, explainability and human review be orchestrated into a deployable clinical-image decision-support architecture?**
-
-This work is represented in the paper:
-
-### 📄 *“EndoXAI-RCT: A Deployable Explainable AI Software Architecture for Multi-Model Clinical Image Review”*
-
-**Accepted for presentation at ICRISET 2026.**
-
-The architecture focuses on:
-
-**Model-role separation • Primary/advisory routing • Health-aware deployment • Failure-aware fallback • Evidence-aligned visualization • Artifact persistence • Human-in-the-loop review**
-
----
-
-## 🌐 Explore EndoXAI-RCT
-
-<p align="center">
-
-<a href="https://github.com/Janicebenita/EndoXAI-RCT">
-<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://endoxai-rct-459576379252.asia-south1.run.app/">
-<img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-GOOGLE%20CLOUD%20RUN-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-</a>
-
-<a href="https://huggingface.co/spaces/janicecodes/EndoXAI-RCT">
-<img src="https://img.shields.io/badge/🤗%20HUGGING%20FACE-ENDOXAI--RCT-FFD21E?style=for-the-badge"/>
-</a>
-
-</p>
-
----
-
-## ⚕️ Responsible AI Boundary
-
-> **EndoXAI-RCT is a research and engineering prototype, not an autonomous diagnostic system or medical device.**
-
-AI outputs are designed to provide **reviewable evidence and decision support**. Final clinical interpretation remains with qualified healthcare professionals.
-
----
-
-<div align="center">
-
-### 🦷 **EndoXAI-RCT**
-
-**Clinical AI × Computer Vision × Explainability × Software Architecture**
-
-### 🧠 Models explain · 🔎 Evidence supports · 👩‍⚕️ Humans decide
-
-</div>
----
-
-# 03. 🏗️ AI-Powered Concrete Crack Detection System
-
-### Published Infrastructure AI Research
-
-An Explainable Deep Learning system developed for automated concrete crack detection and localization.
-
-### Technologies
-
-YOLOv8
-
-ResNet-18
-
-Grad-CAM
-
-OpenCV
-
-Flask
-
-### Highlights
-
-✅ Crack Detection
-
-✅ Crack Classification
-
-✅ Explainable AI Heatmaps
-
-✅ Infrastructure Inspection Automation
-
-### Publication
-
-Published in:
-
-International Journal of Engineering Research & Technology (IJERT)
-
-<p align="center">
-
-<a href="https://github.com/Janicebenita/AI-Powered-Concrete-Crack-Detection-System-with-Explainable-AI-Grad-CAM-">
-<img src="https://img.shields.io/badge/REPOSITORY-GITHUB-black?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.ijert.org/explainable-deep-learning-framework-for-automated-concrete-crack-detection-using-resnet-18-ijertv15is050984">
-<img src="https://img.shields.io/badge/RESEARCH-PUBLICATION-blue?style=for-the-badge"/>
-</a>
-
-<a href="https://www.ijert.org/explainable-deep-learning-framework-for-automated-concrete-crack-detection-using-resnet-18-ijertv15is050984">
-<img src="https://img.shields.io/badge/IJERT-VIEW%20PAPER-green?style=for-the-badge"/>
-</a>
-
-</p>
----
-
-# 04. 🌍 Full-Stack NGO Management & MIS Platform
-
-### Enterprise Operations Dashboard
-
-A complete web-based management system developed for NGO workflow automation and resource tracking.
-
-### Features
-
-✅ Project Lifecycle Management
-
-✅ Resource Allocation
-
-✅ MIS Reporting
-
-✅ Dashboard Analytics
-
-✅ User Authentication
-
-### Technologies
-
-Flask • MySQL • JavaScript • HTML • CSS
-
----
-
-# 05. 🏥 CareScope Analytics
-
-### Predictive Healthcare Operations Command Center
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🏆%20Frontend%20Wars%202026-TOP%2010%20FINALIST-FFD700?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🎨%20UI%20Master-BADGE%20HOLDER-8B5CF6?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <b>See what is happening now. Understand every patient journey.<br>
-  Prepare for what comes next.</b>
-</p>
-
-**CareScope Analytics** is a frontend-only healthcare analytics SaaS platform designed as an intelligent hospital operations command center.
-
-It transforms complex hospital activity into an interactive workspace for:
-
-🏥 **Hospital Operations** • 🧑‍⚕️ **Patient Journeys** • 📊 **Healthcare Analytics** •  
-🔮 **Simulated Forecasting** • 🚑 **Resource Intelligence** • 🗺️ **Hospital Digital Twin**
+### 🏥 Operations • 🧑‍⚕️ Patient Journeys • 📊 Analytics • 🔮 Forecasting • 🚑 Resources • 🗺️ Digital Twin
 
 ---
 
@@ -467,7 +456,6 @@ It transforms complex hospital activity into an interactive workspace for:
 | 🏆 **Frontend Wars 2026** | **Top 10 Finalist** |
 | 🎨 **UI Master** | **Badge Holder** |
 | 💻 Category | Healthcare Analytics SaaS |
-| 🧠 Focus | Operational Intelligence & Predictive UX |
 | 🗺️ Differentiator | Interactive Hospital Digital Twin |
 
 ---
@@ -476,44 +464,34 @@ It transforms complex hospital activity into an interactive workspace for:
 
 | Module | Capability |
 |---|---|
-| 📊 **Operations Command Center** | Hospital-wide KPIs, patient activity and capacity intelligence |
-| 🔮 **Predictive Intelligence** | Simulated patient-load, bed-occupancy and seasonal forecasts |
-| 🧑‍⚕️ **Patient Journey** | Interactive admission-to-discharge treatment timeline |
-| 📅 **Smart Scheduling** | Interactive appointment booking and calendar management |
-| 🚑 **Resource Intelligence** | ICU beds, oxygen, ventilators, blood bank and ambulance monitoring |
-| 📑 **Reports & Exports** | Dynamic filtering, CSV export and print/PDF support |
-| 🔎 **Global Search** | Search across patients, doctors and reports |
-| 🗺️ **Hospital Digital Twin** | Interactive spatial view of hospital departments and operational health |
+| 📊 **Operations Command Center** | Hospital KPIs and capacity intelligence |
+| 🔮 **Predictive Intelligence** | Simulated patient-load and occupancy forecasts |
+| 🧑‍⚕️ **Patient Journey** | Admission-to-discharge timeline |
+| 📅 **Smart Scheduling** | Interactive appointment management |
+| 🚑 **Resource Intelligence** | ICU, oxygen, ventilator, blood and ambulance status |
+| 📑 **Reports & Exports** | Filtering, CSV and print/PDF functionality |
+| 🔎 **Global Search** | Patients, clinicians and reports |
+| 🗺️ **Hospital Digital Twin** | Interactive spatial hospital model |
 
 ---
 
 ### 🗺️ Signature Feature — Hospital Digital Twin
 
-CareScope goes beyond a conventional healthcare dashboard with an interactive **Hospital Digital Twin**.
-
-Users can explore key departments including:
+The Hospital Digital Twin provides an interactive view of:
 
 **Emergency → ICU → Radiology → OPD → Pharmacy**
 
-and inspect their:
+with department-level information for:
 
-- 👥 Patient load
-- 🧑‍⚕️ Staff availability
-- 🛏️ Capacity
-- 🚦 Operational status
-- 🔔 Recent alerts
-
-This converts conventional healthcare analytics into an **explorable operational model of the hospital**.
+👥 Patient Load • 🧑‍⚕️ Staff • 🛏️ Capacity • 🚦 Status • 🔔 Alerts
 
 ---
 
-### ⚡ Built Under Frontend-Only Constraints
-
-CareScope was engineered without a backend or external data service.
+### ⚡ Frontend-Only Engineering
 
 > 🔒 **No Backend • No Database • No Authentication Service • No External API**
 
-All patient records, appointments, clinical activity, resource values and simulated forecasts are generated from **internally consistent local typed mock data**.
+All data is generated from internally consistent typed mock datasets, allowing the complete product experience to operate as a frontend demonstration.
 
 ---
 
@@ -521,134 +499,156 @@ All patient records, appointments, clinical activity, resource values and simula
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-Strict-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Vite-Build-646CFF?style=flat-square&logo=vite&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind-CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Framer-Motion-FF0055?style=flat-square&logo=framer&logoColor=white" />
-<img src="https://img.shields.io/badge/Recharts-Visualization-22B5BF?style=flat-square" />
+<img src="https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-Strict-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-Build-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Framer-Motion-FF0055?style=flat-square"/>
+<img src="https://img.shields.io/badge/Recharts-Visualization-22B5BF?style=flat-square"/>
 
 </p>
-
----
-
-### 💡 Why CareScope?
-
-Hospital information is often distributed across separate systems for patients, appointments, staffing, diagnostics and resources.
-
-CareScope explores how a unified digital command center could help teams:
-
-### 👀 See Now → 🩺 Understand → 🔮 Anticipate → 🏨 Coordinate → ⚡ Act
-
-with a calm, responsive and information-rich healthcare operations experience.
-
----
-
-<p align="center">
-
-<a href="PASTE_CARESCOPE_REPOSITORY_URL_HERE">
-<img src="https://img.shields.io/badge/📂%20EXPLORE%20CARESCOPE-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
-> ⚕️ **Demonstration Notice:** All patients, diagnoses, laboratory values, forecasts and operational metrics are fictional. CareScope Analytics is a hackathon demonstration and is not intended for clinical diagnosis, treatment decisions or real hospital operations.
 
 <p align="center">
 
 <a href="https://github.com/Janicebenita/carescope-analytics">
-<img src="https://img.shields.io/badge/📂%20EXPLORE%20CARESCOPE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE%20CARESCOPE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+> ⚕️ **Demonstration Notice:** All patient records, diagnoses, laboratory values, forecasts and operational metrics are fictional. CareScope Analytics is not intended for clinical diagnosis, treatment decisions or real hospital operations.
+
+---
+
+# 06. 🔍 AI-Powered Concrete Crack Detection
+
+### 🏗️ Explainable Computer Vision for Infrastructure Inspection
+
+### Published Computer Vision & Infrastructure AI Research
+
+An Explainable Deep Learning framework developed for automated concrete crack detection, classification and visual interpretation.
+
+### 🧠 Technology
+
+**YOLOv8 • ResNet-18 • Grad-CAM • OpenCV • Flask**
+
+### ✨ Highlights
+
+✅ Automated Crack Detection  
+✅ Deep-Learning Classification  
+✅ Grad-CAM Explainability  
+✅ Visual Evidence Generation  
+✅ Infrastructure Inspection Intelligence  
+
+### 📚 Publication
+
+**Explainable Deep Learning Framework for Automated Concrete Crack Detection Using ResNet-18**
+
+Published in the **International Journal of Engineering Research & Technology (IJERT)**.
+
+<p align="center">
+
+<a href="https://github.com/Janicebenita/AI-Powered-Concrete-Crack-Detection-System-with-Explainable-AI-Grad-CAM-">
+<img src="https://img.shields.io/badge/SOURCE%20CODE-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.ijert.org/explainable-deep-learning-framework-for-automated-concrete-crack-detection-using-resnet-18-ijertv15is050984">
+<img src="https://img.shields.io/badge/VIEW%20PUBLICATION-IJERT-2563EB?style=for-the-badge"/>
 </a>
 
 </p>
 
 ---
 
-# 06. 📈 Real-Time Stock Trading Signal Intelligence Platform
+# 07. 🌍 Full-Stack NGO Management & MIS Platform
 
-### Financial Analytics System
+### Enterprise Workflow & Operations Dashboard
 
-Developed for automated market signal generation using technical indicators and analytics.
+A full-stack web application designed for NGO workflow automation, project management and management-information reporting.
 
-### Features
+**Core Features**
 
-✅ RSI Strategy
+✅ Project Lifecycle Management  
+✅ Resource Allocation  
+✅ MIS Reporting  
+✅ Dashboard Analytics  
+✅ User Authentication  
 
-✅ Moving Average Signals
+**Technology:** Flask • MySQL • JavaScript • HTML • CSS
 
-✅ Telegram Alerts
+---
 
-✅ Time-Series Analytics
+# 08. 📈 Real-Time Stock Trading Signal Intelligence
+
+### Financial Analytics & Automated Signal System
+
+A data-driven market analytics application designed around technical indicators and automated trading-signal generation.
+
+**Capabilities**
+
+✅ RSI Strategy  
+✅ Moving Average Signals  
+✅ Telegram Alerts  
+✅ Time-Series Analytics  
 
 <p align="center">
+
 <a href="https://github.com/Janicebenita/Data-Driven-Real-Time-Stock-Trading-Signal-System-with-RSI-MA-Strategy-and-Telegram-Alerts">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 </p>
+
+---
+
+# 🏆 Recognition & Achievements
+
+| Recognition | Achievement |
+|---|---|
+| 🥈 **International Dental Conference — IDDC 2026, Mumbai** | **2nd Prize** |
+| 🤖 **AI Agent Builder Series 2026** | **Top 100 AI Agent Builder / Grand Finale** |
+| 🏆 **Frontend Wars 2026** | **Top 10 Finalist** |
+| 🎨 **Frontend Wars 2026** | **UI Master Badge Holder** |
+| 📄 **ICRISET 2026** | **Paper Accepted for Presentation** |
+| 📚 **Research** | Published Research Author |
+| 💻 **Problem Solving** | 600+ DSA Problems Solved |
+| 🥈 **CodeVerse** | Runner-Up |
+
 ---
 
 # 💼 Professional Experience
 
-## 🏗️ Larsen & Toubro (L&T)
+### 🏗️ Larsen & Toubro (L&T)
+**Data Analytics & Machine Learning Intern**
 
-### Data Analytics & Machine Learning Intern
+Construction Quality Analytics • Infrastructure Intelligence • Explainable AI • Data-Driven Engineering
 
-Worked on:
+### 🌾 YuvaIntern
+**Data Analytics Intern**
 
-- Construction Quality Analytics
-- Infrastructure Inspection Intelligence
-- Explainable AI Systems
-- Data-Driven Engineering Solutions
+Predictive Analytics • Data Preprocessing • EDA • Machine Learning
 
----
+### 💻 CodeBind Technologies
+**Web Development Intern**
 
-## 🌾 YuvaIntern
-
-### Data Analytics Intern
-
-Worked on:
-
-- Predictive Analytics
-- Data Preprocessing
-- Exploratory Data Analysis
-- Machine Learning Workflows
+Responsive Web Applications • Frontend Development • API Integration • UI/UX
 
 ---
 
-## 💻 CodeBind Technologies
+# 🧠 Technical Focus
 
-### Web Development Intern
+<p align="center">
 
-Worked on:
+`Artificial Intelligence` •
+`Machine Learning` •
+`Computer Vision` •
+`Explainable AI` •
+`AI Agents` •
+`Digital Twins` •
+`Data Analytics` •
+`Full-Stack Engineering`
 
-- Responsive Web Applications
-- Frontend Development
-- API Integration
-- UI/UX Enhancement
-
----
-
-# 📚 Research Publication
-
-## Explainable Deep Learning Framework for Automated Concrete Crack Detection Using ResNet-18
-
-Published in:
-
-### International Journal of Engineering Research & Technology (IJERT)
-
----
-
-# 🏆 Achievements
-
-🏅 Published Research Author
-
-🏅 600+ DSA Problems Solved
-
-🏅 AI & Data Analytics Project Developer
-
-🏅 Open Source Contributor
-
-🏅 Runner-Up – CodeVerse Coding Competition
+</p>
 
 ---
 
@@ -656,70 +656,52 @@ Published in:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Janicebenita&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Janicebenita&show_icons=true&theme=tokyonight&hide_border=true" height="175"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Janicebenita&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Janicebenita&theme=tokyonight&hide_border=true" height="175"/>
 
 </p>
-
----
-
-# 📦 Portfolio Highlights
-
-🏥 Healthcare AI
-
-🏗️ Infrastructure AI
-
-📊 Industrial Analytics
-
-🤖 Explainable AI
-
-🌐 Full-Stack Development
-
-📈 Financial Analytics
 
 ---
 
 # 🌱 Currently Exploring
 
-🧠 Advanced Deep Learning
-
-⚡ MLOps & AI Deployment
-
-☁️ AI + Cloud Integration
-
-🔍 Explainable Computer Vision
-
-📊 Industrial AI Systems
+🧠 Advanced Deep Learning  
+🤖 Agentic AI Systems  
+⚡ MLOps & AI Deployment  
+☁️ AI + Cloud Integration  
+🔍 Explainable Computer Vision  
+🌐 Digital Twins  
+📊 Industrial AI Systems  
 
 ---
 
 # 💡 Engineering Philosophy
 
-> Building AI systems that are intelligent, explainable, scalable, and impactful.
+> ### Building AI systems that do more than predict — systems that explain, ground their outputs in evidence, support human decisions and translate research into deployable engineering.
 
 ---
 
-### Connect
-
-GitHub:
-https://github.com/Janicebenita
-
-LinkedIn:
-https://linkedin.com/in/janice13
-
----
+# 🤝 Connect
 
 <p align="center">
-✨ Thanks for visiting my profile ✨
+
+<a href="https://github.com/Janicebenita">
+<img src="https://img.shields.io/badge/GitHub-Janicebenita-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/janice13">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </p>
 
-</div>
-
 ---
 
 <p align="center">
 
-✨ Thanks for visiting my profile ✨
+### ✨ Thanks for visiting my profile ✨
+
+**AI Engineering • Research • Explainability • Human-Governed Intelligence**
 
 </p>
